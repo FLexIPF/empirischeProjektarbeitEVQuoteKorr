@@ -1,0 +1,2406 @@
+kreis_id,kreis_name,jahr,bev_total
+01001,"Flensburg, kreisfreie Stadt",2020,89934.0
+01001,"Flensburg, kreisfreie Stadt",2021,91113.0
+01001,"Flensburg, kreisfreie Stadt",2022,96217.0
+01001,"Flensburg, kreisfreie Stadt",2023,96431.0
+01001,"Flensburg, kreisfreie Stadt",2024,96326.0
+01002,"Kiel, kreisfreie Stadt",2020,246601.0
+01002,"Kiel, kreisfreie Stadt",2021,246243.0
+01002,"Kiel, kreisfreie Stadt",2022,250064.0
+01002,"Kiel, kreisfreie Stadt",2023,251751.0
+01002,"Kiel, kreisfreie Stadt",2024,252668.0
+01003,"Lï¿½beck, kreisfreie Stadt",2020,215846.0
+01003,"Lï¿½beck, kreisfreie Stadt",2021,216277.0
+01003,"Lï¿½beck, kreisfreie Stadt",2022,216097.0
+01003,"Lï¿½beck, kreisfreie Stadt",2023,217061.0
+01003,"Lï¿½beck, kreisfreie Stadt",2024,216889.0
+01004,"Neumï¿½nster, kreisfreie Stadt",2020,79905.0
+01004,"Neumï¿½nster, kreisfreie Stadt",2021,79496.0
+01004,"Neumï¿½nster, kreisfreie Stadt",2022,78858.0
+01004,"Neumï¿½nster, kreisfreie Stadt",2023,79461.0
+01004,"Neumï¿½nster, kreisfreie Stadt",2024,79809.0
+01051,"Dithmarschen, Landkreis",2020,133251.0
+01051,"Dithmarschen, Landkreis",2021,133969.0
+01051,"Dithmarschen, Landkreis",2022,133104.0
+01051,"Dithmarschen, Landkreis",2023,133514.0
+01051,"Dithmarschen, Landkreis",2024,133460.0
+01053,"Herzogtum Lauenburg, Landkreis",2020,199152.0
+01053,"Herzogtum Lauenburg, Landkreis",2021,200819.0
+01053,"Herzogtum Lauenburg, Landkreis",2022,204237.0
+01053,"Herzogtum Lauenburg, Landkreis",2023,205445.0
+01053,"Herzogtum Lauenburg, Landkreis",2024,206235.0
+01054,"Nordfriesland, Landkreis",2020,167147.0
+01054,"Nordfriesland, Landkreis",2021,167560.0
+01054,"Nordfriesland, Landkreis",2022,168886.0
+01054,"Nordfriesland, Landkreis",2023,170048.0
+01054,"Nordfriesland, Landkreis",2024,170029.0
+01055,"Ostholstein, Landkreis",2020,201487.0
+01055,"Ostholstein, Landkreis",2021,202014.0
+01055,"Ostholstein, Landkreis",2022,200802.0
+01055,"Ostholstein, Landkreis",2023,201529.0
+01055,"Ostholstein, Landkreis",2024,201472.0
+01056,"Pinneberg, Landkreis",2020,317085.0
+01056,"Pinneberg, Landkreis",2021,318326.0
+01056,"Pinneberg, Landkreis",2022,321849.0
+01056,"Pinneberg, Landkreis",2023,323762.0
+01056,"Pinneberg, Landkreis",2024,325223.0
+01057,"Plï¿½n, Landkreis",2020,129353.0
+01057,"Plï¿½n, Landkreis",2021,129687.0
+01057,"Plï¿½n, Landkreis",2022,130494.0
+01057,"Plï¿½n, Landkreis",2023,130635.0
+01057,"Plï¿½n, Landkreis",2024,130609.0
+01058,"Rendsburg-Eckernfï¿½rde, Landkreis",2020,274765.0
+01058,"Rendsburg-Eckernfï¿½rde, Landkreis",2021,276053.0
+01058,"Rendsburg-Eckernfï¿½rde, Landkreis",2022,276964.0
+01058,"Rendsburg-Eckernfï¿½rde, Landkreis",2023,277888.0
+01058,"Rendsburg-Eckernfï¿½rde, Landkreis",2024,278058.0
+01059,"Schleswig-Flensburg, Landkreis",2020,202647.0
+01059,"Schleswig-Flensburg, Landkreis",2021,203799.0
+01059,"Schleswig-Flensburg, Landkreis",2022,204255.0
+01059,"Schleswig-Flensburg, Landkreis",2023,204761.0
+01059,"Schleswig-Flensburg, Landkreis",2024,205472.0
+01060,"Segeberg, Landkreis",2020,278007.0
+01060,"Segeberg, Landkreis",2021,280400.0
+01060,"Segeberg, Landkreis",2022,279922.0
+01060,"Segeberg, Landkreis",2023,282268.0
+01060,"Segeberg, Landkreis",2024,283562.0
+01061,"Steinburg, Landkreis",2020,130706.0
+01061,"Steinburg, Landkreis",2021,130843.0
+01061,"Steinburg, Landkreis",2022,131712.0
+01061,"Steinburg, Landkreis",2023,132447.0
+01061,"Steinburg, Landkreis",2024,132731.0
+01062,"Stormarn, Landkreis",2020,244989.0
+01062,"Stormarn, Landkreis",2021,245406.0
+01062,"Stormarn, Landkreis",2022,245822.0
+01062,"Stormarn, Landkreis",2023,246201.0
+01062,"Stormarn, Landkreis",2024,246974.0
+02000,"Hamburg, kreisfreie Stadt",2020,1852478.0
+02000,"Hamburg, kreisfreie Stadt",2021,1853935.0
+02000,"Hamburg, kreisfreie Stadt",2022,1832675.0
+02000,"Hamburg, kreisfreie Stadt",2023,1851596.0
+02000,"Hamburg, kreisfreie Stadt",2024,1862565.0
+03101,"Braunschweig, kreisfreie Stadt",2020,248561.0
+03101,"Braunschweig, kreisfreie Stadt",2021,248823.0
+03101,"Braunschweig, kreisfreie Stadt",2022,253194.0
+03101,"Braunschweig, kreisfreie Stadt",2023,253527.0
+03101,"Braunschweig, kreisfreie Stadt",2024,252962.0
+03102,"Salzgitter, kreisfreie Stadt",2020,103866.0
+03102,"Salzgitter, kreisfreie Stadt",2021,103694.0
+03102,"Salzgitter, kreisfreie Stadt",2022,104564.0
+03102,"Salzgitter, kreisfreie Stadt",2023,105056.0
+03102,"Salzgitter, kreisfreie Stadt",2024,104970.0
+03103,"Wolfsburg, kreisfreie Stadt",2020,123840.0
+03103,"Wolfsburg, kreisfreie Stadt",2021,123949.0
+03103,"Wolfsburg, kreisfreie Stadt",2022,127990.0
+03103,"Wolfsburg, kreisfreie Stadt",2023,129347.0
+03103,"Wolfsburg, kreisfreie Stadt",2024,129560.0
+03151,"Gifhorn, Landkreis",2020,177227.0
+03151,"Gifhorn, Landkreis",2021,177919.0
+03151,"Gifhorn, Landkreis",2022,175361.0
+03151,"Gifhorn, Landkreis",2023,175876.0
+03151,"Gifhorn, Landkreis",2024,175943.0
+03152,"Gï¿½ttingen, Landkreis (bis 31.10.2016)",2020,
+03152,"Gï¿½ttingen, Landkreis (bis 31.10.2016)",2021,
+03152,"Gï¿½ttingen, Landkreis (bis 31.10.2016)",2022,
+03152,"Gï¿½ttingen, Landkreis (bis 31.10.2016)",2023,
+03152,"Gï¿½ttingen, Landkreis (bis 31.10.2016)",2024,
+03153,"Goslar, Landkreis",2020,134688.0
+03153,"Goslar, Landkreis",2021,134050.0
+03153,"Goslar, Landkreis",2022,127856.0
+03153,"Goslar, Landkreis",2023,127712.0
+03153,"Goslar, Landkreis",2024,126775.0
+03154,"Helmstedt, Landkreis",2020,91518.0
+03154,"Helmstedt, Landkreis",2021,91379.0
+03154,"Helmstedt, Landkreis",2022,90985.0
+03154,"Helmstedt, Landkreis",2023,90692.0
+03154,"Helmstedt, Landkreis",2024,90227.0
+03155,"Northeim, Landkreis",2020,131772.0
+03155,"Northeim, Landkreis",2021,131765.0
+03155,"Northeim, Landkreis",2022,126598.0
+03155,"Northeim, Landkreis",2023,126310.0
+03155,"Northeim, Landkreis",2024,125623.0
+03156,"Osterode am Harz, Landkreis (bis 31.10.2016)",2020,
+03156,"Osterode am Harz, Landkreis (bis 31.10.2016)",2021,
+03156,"Osterode am Harz, Landkreis (bis 31.10.2016)",2022,
+03156,"Osterode am Harz, Landkreis (bis 31.10.2016)",2023,
+03156,"Osterode am Harz, Landkreis (bis 31.10.2016)",2024,
+03157,"Peine, Landkreis",2020,135844.0
+03157,"Peine, Landkreis",2021,136960.0
+03157,"Peine, Landkreis",2022,136719.0
+03157,"Peine, Landkreis",2023,136983.0
+03157,"Peine, Landkreis",2024,137045.0
+03158,"Wolfenbï¿½ttel, Landkreis",2020,119361.0
+03158,"Wolfenbï¿½ttel, Landkreis",2021,119224.0
+03158,"Wolfenbï¿½ttel, Landkreis",2022,118296.0
+03158,"Wolfenbï¿½ttel, Landkreis",2023,118540.0
+03158,"Wolfenbï¿½ttel, Landkreis",2024,118290.0
+03159,"Gï¿½ttingen, Landkreis",2020,323900.0
+03159,"Gï¿½ttingen, Landkreis",2021,323661.0
+03159,"Gï¿½ttingen, Landkreis",2022,328039.0
+03159,"Gï¿½ttingen, Landkreis",2023,328657.0
+03159,"Gï¿½ttingen, Landkreis",2024,328028.0
+03201,"Hannover, kreisfreie Stadt (bis 31.10.2001)",2020,
+03201,"Hannover, kreisfreie Stadt (bis 31.10.2001)",2021,
+03201,"Hannover, kreisfreie Stadt (bis 31.10.2001)",2022,
+03201,"Hannover, kreisfreie Stadt (bis 31.10.2001)",2023,
+03201,"Hannover, kreisfreie Stadt (bis 31.10.2001)",2024,
+03241,"Region Hannover, Landkreis",2020,1155330.0
+03241,"Region Hannover, Landkreis",2021,1157541.0
+03241,"Region Hannover, Landkreis",2022,1134284.0
+03241,"Region Hannover, Landkreis",2023,1138943.0
+03241,"Region Hannover, Landkreis",2024,1140888.0
+03251,"Diepholz, Landkreis",2020,218072.0
+03251,"Diepholz, Landkreis",2021,218839.0
+03251,"Diepholz, Landkreis",2022,219641.0
+03251,"Diepholz, Landkreis",2023,220743.0
+03251,"Diepholz, Landkreis",2024,221202.0
+03252,"Hameln-Pyrmont, Landkreis",2020,148580.0
+03252,"Hameln-Pyrmont, Landkreis",2021,148963.0
+03252,"Hameln-Pyrmont, Landkreis",2022,150717.0
+03252,"Hameln-Pyrmont, Landkreis",2023,150535.0
+03252,"Hameln-Pyrmont, Landkreis",2024,150203.0
+03253,"Hannover, Landkreis (bis 31.10.2001)",2020,
+03253,"Hannover, Landkreis (bis 31.10.2001)",2021,
+03253,"Hannover, Landkreis (bis 31.10.2001)",2022,
+03253,"Hannover, Landkreis (bis 31.10.2001)",2023,
+03253,"Hannover, Landkreis (bis 31.10.2001)",2024,
+03254,"Hildesheim, Landkreis",2020,275464.0
+03254,"Hildesheim, Landkreis",2021,274773.0
+03254,"Hildesheim, Landkreis",2022,268062.0
+03254,"Hildesheim, Landkreis",2023,268318.0
+03254,"Hildesheim, Landkreis",2024,267506.0
+03255,"Holzminden, Landkreis",2020,70207.0
+03255,"Holzminden, Landkreis",2021,69862.0
+03255,"Holzminden, Landkreis",2022,66288.0
+03255,"Holzminden, Landkreis",2023,66088.0
+03255,"Holzminden, Landkreis",2024,65581.0
+03256,"Nienburg (Weser), Landkreis",2020,121645.0
+03256,"Nienburg (Weser), Landkreis",2021,121773.0
+03256,"Nienburg (Weser), Landkreis",2022,121295.0
+03256,"Nienburg (Weser), Landkreis",2023,121723.0
+03256,"Nienburg (Weser), Landkreis",2024,121468.0
+03257,"Schaumburg, Landkreis",2020,158406.0
+03257,"Schaumburg, Landkreis",2021,158108.0
+03257,"Schaumburg, Landkreis",2022,156747.0
+03257,"Schaumburg, Landkreis",2023,157051.0
+03257,"Schaumburg, Landkreis",2024,156841.0
+03351,"Celle, Landkreis",2020,179386.0
+03351,"Celle, Landkreis",2021,179915.0
+03351,"Celle, Landkreis",2022,172477.0
+03351,"Celle, Landkreis",2023,172871.0
+03351,"Celle, Landkreis",2024,172449.0
+03352,"Cuxhaven, Landkreis",2020,198826.0
+03352,"Cuxhaven, Landkreis",2021,199603.0
+03352,"Cuxhaven, Landkreis",2022,198898.0
+03352,"Cuxhaven, Landkreis",2023,199390.0
+03352,"Cuxhaven, Landkreis",2024,198842.0
+03353,"Harburg, Landkreis",2020,256016.0
+03353,"Harburg, Landkreis",2021,257548.0
+03353,"Harburg, Landkreis",2022,262954.0
+03353,"Harburg, Landkreis",2023,264767.0
+03353,"Harburg, Landkreis",2024,265864.0
+03354,"Lï¿½chow-Dannenberg, Landkreis",2020,48503.0
+03354,"Lï¿½chow-Dannenberg, Landkreis",2021,48472.0
+03354,"Lï¿½chow-Dannenberg, Landkreis",2022,46791.0
+03354,"Lï¿½chow-Dannenberg, Landkreis",2023,46815.0
+03354,"Lï¿½chow-Dannenberg, Landkreis",2024,46502.0
+03355,"Lï¿½neburg, Landkreis",2020,184235.0
+03355,"Lï¿½neburg, Landkreis",2021,185129.0
+03355,"Lï¿½neburg, Landkreis",2022,178099.0
+03355,"Lï¿½neburg, Landkreis",2023,179403.0
+03355,"Lï¿½neburg, Landkreis",2024,179448.0
+03356,"Osterholz, Landkreis",2020,114640.0
+03356,"Osterholz, Landkreis",2021,115054.0
+03356,"Osterholz, Landkreis",2022,113800.0
+03356,"Osterholz, Landkreis",2023,113784.0
+03356,"Osterholz, Landkreis",2024,113598.0
+03357,"Rotenburg (Wï¿½mme), Landkreis",2020,164486.0
+03357,"Rotenburg (Wï¿½mme), Landkreis",2021,165001.0
+03357,"Rotenburg (Wï¿½mme), Landkreis",2022,164657.0
+03357,"Rotenburg (Wï¿½mme), Landkreis",2023,165561.0
+03357,"Rotenburg (Wï¿½mme), Landkreis",2024,165904.0
+03358,Heidekreis,2020,140885.0
+03358,Heidekreis,2021,142912.0
+03358,Heidekreis,2022,143728.0
+03358,Heidekreis,2023,141627.0
+03358,Heidekreis,2024,141321.0
+03359,"Stade, Landkreis",2020,205357.0
+03359,"Stade, Landkreis",2021,206496.0
+03359,"Stade, Landkreis",2022,206375.0
+03359,"Stade, Landkreis",2023,207659.0
+03359,"Stade, Landkreis",2024,207700.0
+03360,"Uelzen, Landkreis",2020,92566.0
+03360,"Uelzen, Landkreis",2021,92894.0
+03360,"Uelzen, Landkreis",2022,91059.0
+03360,"Uelzen, Landkreis",2023,91832.0
+03360,"Uelzen, Landkreis",2024,91638.0
+03361,"Verden, Landkreis",2020,137574.0
+03361,"Verden, Landkreis",2021,138507.0
+03361,"Verden, Landkreis",2022,137793.0
+03361,"Verden, Landkreis",2023,138273.0
+03361,"Verden, Landkreis",2024,138626.0
+03401,"Delmenhorst, kreisfreie Stadt",2020,77503.0
+03401,"Delmenhorst, kreisfreie Stadt",2021,77522.0
+03401,"Delmenhorst, kreisfreie Stadt",2022,81148.0
+03401,"Delmenhorst, kreisfreie Stadt",2023,81746.0
+03401,"Delmenhorst, kreisfreie Stadt",2024,81406.0
+03402,"Emden, kreisfreie Stadt",2020,49874.0
+03402,"Emden, kreisfreie Stadt",2021,49523.0
+03402,"Emden, kreisfreie Stadt",2022,49563.0
+03402,"Emden, kreisfreie Stadt",2023,49701.0
+03402,"Emden, kreisfreie Stadt",2024,49202.0
+03403,"Oldenburg (Oldenburg), kreisfreie Stadt",2020,169605.0
+03403,"Oldenburg (Oldenburg), kreisfreie Stadt",2021,170389.0
+03403,"Oldenburg (Oldenburg), kreisfreie Stadt",2022,174445.0
+03403,"Oldenburg (Oldenburg), kreisfreie Stadt",2023,176242.0
+03403,"Oldenburg (Oldenburg), kreisfreie Stadt",2024,176614.0
+03404,"Osnabrï¿½ck, kreisfreie Stadt",2020,164223.0
+03404,"Osnabrï¿½ck, kreisfreie Stadt",2021,165034.0
+03404,"Osnabrï¿½ck, kreisfreie Stadt",2022,165741.0
+03404,"Osnabrï¿½ck, kreisfreie Stadt",2023,165686.0
+03404,"Osnabrï¿½ck, kreisfreie Stadt",2024,166057.0
+03405,"Wilhelmshaven, kreisfreie Stadt",2020,75189.0
+03405,"Wilhelmshaven, kreisfreie Stadt",2021,75027.0
+03405,"Wilhelmshaven, kreisfreie Stadt",2022,75860.0
+03405,"Wilhelmshaven, kreisfreie Stadt",2023,76010.0
+03405,"Wilhelmshaven, kreisfreie Stadt",2024,75745.0
+03451,"Ammerland, Landkreis",2020,125643.0
+03451,"Ammerland, Landkreis",2021,126475.0
+03451,"Ammerland, Landkreis",2022,126390.0
+03451,"Ammerland, Landkreis",2023,127292.0
+03451,"Ammerland, Landkreis",2024,127751.0
+03452,"Aurich, Landkreis",2020,190178.0
+03452,"Aurich, Landkreis",2021,190425.0
+03452,"Aurich, Landkreis",2022,188402.0
+03452,"Aurich, Landkreis",2023,188960.0
+03452,"Aurich, Landkreis",2024,188816.0
+03453,"Cloppenburg, Landkreis",2020,172632.0
+03453,"Cloppenburg, Landkreis",2021,173980.0
+03453,"Cloppenburg, Landkreis",2022,175549.0
+03453,"Cloppenburg, Landkreis",2023,176540.0
+03453,"Cloppenburg, Landkreis",2024,177025.0
+03454,"Emsland, Landkreis",2020,328930.0
+03454,"Emsland, Landkreis",2021,331397.0
+03454,"Emsland, Landkreis",2022,331711.0
+03454,"Emsland, Landkreis",2023,334203.0
+03454,"Emsland, Landkreis",2024,334539.0
+03455,"Friesland, Landkreis",2020,98971.0
+03455,"Friesland, Landkreis",2021,98971.0
+03455,"Friesland, Landkreis",2022,100089.0
+03455,"Friesland, Landkreis",2023,100461.0
+03455,"Friesland, Landkreis",2024,100411.0
+03456,"Grafschaft Bentheim, Landkreis",2020,137891.0
+03456,"Grafschaft Bentheim, Landkreis",2021,138722.0
+03456,"Grafschaft Bentheim, Landkreis",2022,143472.0
+03456,"Grafschaft Bentheim, Landkreis",2023,144212.0
+03456,"Grafschaft Bentheim, Landkreis",2024,144543.0
+03457,"Leer, Landkreis",2020,171483.0
+03457,"Leer, Landkreis",2021,172421.0
+03457,"Leer, Landkreis",2022,169390.0
+03457,"Leer, Landkreis",2023,169111.0
+03457,"Leer, Landkreis",2024,169103.0
+03458,"Oldenburg, Landkreis",2020,131467.0
+03458,"Oldenburg, Landkreis",2021,132091.0
+03458,"Oldenburg, Landkreis",2022,131228.0
+03458,"Oldenburg, Landkreis",2023,131965.0
+03458,"Oldenburg, Landkreis",2024,132008.0
+03459,"Osnabrï¿½ck, Landkreis",2020,359471.0
+03459,"Osnabrï¿½ck, Landkreis",2021,361550.0
+03459,"Osnabrï¿½ck, Landkreis",2022,356060.0
+03459,"Osnabrï¿½ck, Landkreis",2023,356194.0
+03459,"Osnabrï¿½ck, Landkreis",2024,354821.0
+03460,"Vechta, Landkreis",2020,143698.0
+03460,"Vechta, Landkreis",2021,144805.0
+03460,"Vechta, Landkreis",2022,145552.0
+03460,"Vechta, Landkreis",2023,146400.0
+03460,"Vechta, Landkreis",2024,146539.0
+03461,"Wesermarsch, Landkreis",2020,88524.0
+03461,"Wesermarsch, Landkreis",2021,88430.0
+03461,"Wesermarsch, Landkreis",2022,89127.0
+03461,"Wesermarsch, Landkreis",2023,89316.0
+03461,"Wesermarsch, Landkreis",2024,88936.0
+03462,"Wittmund, Landkreis",2020,57384.0
+03462,"Wittmund, Landkreis",2021,57455.0
+03462,"Wittmund, Landkreis",2022,55953.0
+03462,"Wittmund, Landkreis",2023,56013.0
+03462,"Wittmund, Landkreis",2024,55969.0
+04011,"Bremen, kreisfreie Stadt",2020,566573.0
+04011,"Bremen, kreisfreie Stadt",2021,563290.0
+04011,"Bremen, kreisfreie Stadt",2022,576947.0
+04011,"Bremen, kreisfreie Stadt",2023,584332.0
+04011,"Bremen, kreisfreie Stadt",2024,586271.0
+04012,"Bremerhaven, kreisfreie Stadt",2020,113557.0
+04012,"Bremerhaven, kreisfreie Stadt",2021,113173.0
+04012,"Bremerhaven, kreisfreie Stadt",2022,118811.0
+04012,"Bremerhaven, kreisfreie Stadt",2023,118323.0
+04012,"Bremerhaven, kreisfreie Stadt",2024,118610.0
+05111,"Dï¿½sseldorf, kreisfreie Stadt",2020,620523.0
+05111,"Dï¿½sseldorf, kreisfreie Stadt",2021,619477.0
+05111,"Dï¿½sseldorf, kreisfreie Stadt",2022,614399.0
+05111,"Dï¿½sseldorf, kreisfreie Stadt",2023,616319.0
+05111,"Dï¿½sseldorf, kreisfreie Stadt",2024,618685.0
+05112,"Duisburg, kreisfreie Stadt",2020,495885.0
+05112,"Duisburg, kreisfreie Stadt",2021,495152.0
+05112,"Duisburg, kreisfreie Stadt",2022,501671.0
+05112,"Duisburg, kreisfreie Stadt",2023,503185.0
+05112,"Duisburg, kreisfreie Stadt",2024,502270.0
+05113,"Essen, kreisfreie Stadt",2020,582415.0
+05113,"Essen, kreisfreie Stadt",2021,579432.0
+05113,"Essen, kreisfreie Stadt",2022,572237.0
+05113,"Essen, kreisfreie Stadt",2023,574082.0
+05113,"Essen, kreisfreie Stadt",2024,574682.0
+05114,"Krefeld, kreisfreie Stadt",2020,226844.0
+05114,"Krefeld, kreisfreie Stadt",2021,227050.0
+05114,"Krefeld, kreisfreie Stadt",2022,230375.0
+05114,"Krefeld, kreisfreie Stadt",2023,230393.0
+05114,"Krefeld, kreisfreie Stadt",2024,231406.0
+05116,"Mï¿½nchengladbach, kreisfreie Stadt",2020,259665.0
+05116,"Mï¿½nchengladbach, kreisfreie Stadt",2021,261001.0
+05116,"Mï¿½nchengladbach, kreisfreie Stadt",2022,267333.0
+05116,"Mï¿½nchengladbach, kreisfreie Stadt",2023,267667.0
+05116,"Mï¿½nchengladbach, kreisfreie Stadt",2024,267213.0
+05117,"Mï¿½lheim an der Ruhr, kreisfreie Stadt",2020,170921.0
+05117,"Mï¿½lheim an der Ruhr, kreisfreie Stadt",2021,170739.0
+05117,"Mï¿½lheim an der Ruhr, kreisfreie Stadt",2022,172054.0
+05117,"Mï¿½lheim an der Ruhr, kreisfreie Stadt",2023,172887.0
+05117,"Mï¿½lheim an der Ruhr, kreisfreie Stadt",2024,173050.0
+05119,"Oberhausen, kreisfreie Stadt",2020,209566.0
+05119,"Oberhausen, kreisfreie Stadt",2021,208752.0
+05119,"Oberhausen, kreisfreie Stadt",2022,213252.0
+05119,"Oberhausen, kreisfreie Stadt",2023,213510.0
+05119,"Oberhausen, kreisfreie Stadt",2024,213646.0
+05120,"Remscheid, kreisfreie Stadt",2020,111516.0
+05120,"Remscheid, kreisfreie Stadt",2021,111770.0
+05120,"Remscheid, kreisfreie Stadt",2022,113731.0
+05120,"Remscheid, kreisfreie Stadt",2023,114061.0
+05120,"Remscheid, kreisfreie Stadt",2024,113828.0
+05122,"Solingen, kreisfreie Stadt",2020,159193.0
+05122,"Solingen, kreisfreie Stadt",2021,158957.0
+05122,"Solingen, kreisfreie Stadt",2022,165229.0
+05122,"Solingen, kreisfreie Stadt",2023,166078.0
+05122,"Solingen, kreisfreie Stadt",2024,165626.0
+05124,"Wuppertal, kreisfreie Stadt",2020,355004.0
+05124,"Wuppertal, kreisfreie Stadt",2021,354572.0
+05124,"Wuppertal, kreisfreie Stadt",2022,358568.0
+05124,"Wuppertal, kreisfreie Stadt",2023,358592.0
+05124,"Wuppertal, kreisfreie Stadt",2024,358193.0
+05154,"Kleve, Landkreis",2020,313586.0
+05154,"Kleve, Landkreis",2021,314676.0
+05154,"Kleve, Landkreis",2022,317411.0
+05154,"Kleve, Landkreis",2023,319928.0
+05154,"Kleve, Landkreis",2024,322018.0
+05158,"Mettmann, Landkreis",2020,484322.0
+05158,"Mettmann, Landkreis",2021,484411.0
+05158,"Mettmann, Landkreis",2022,489246.0
+05158,"Mettmann, Landkreis",2023,489760.0
+05158,"Mettmann, Landkreis",2024,490910.0
+05162,Rhein-Kreis Neuss,2020,452001.0
+05162,Rhein-Kreis Neuss,2021,452496.0
+05162,Rhein-Kreis Neuss,2022,455818.0
+05162,Rhein-Kreis Neuss,2023,457398.0
+05162,Rhein-Kreis Neuss,2024,457077.0
+05166,"Viersen, Landkreis",2020,298536.0
+05166,"Viersen, Landkreis",2021,298761.0
+05166,"Viersen, Landkreis",2022,295362.0
+05166,"Viersen, Landkreis",2023,297504.0
+05166,"Viersen, Landkreis",2024,297857.0
+05170,"Wesel, Landkreis",2020,460113.0
+05170,"Wesel, Landkreis",2021,460433.0
+05170,"Wesel, Landkreis",2022,455854.0
+05170,"Wesel, Landkreis",2023,457545.0
+05170,"Wesel, Landkreis",2024,457918.0
+05313,"Aachen, kreisfreie Stadt (bis 20.10.2009)",2020,
+05313,"Aachen, kreisfreie Stadt (bis 20.10.2009)",2021,
+05313,"Aachen, kreisfreie Stadt (bis 20.10.2009)",2022,
+05313,"Aachen, kreisfreie Stadt (bis 20.10.2009)",2023,
+05313,"Aachen, kreisfreie Stadt (bis 20.10.2009)",2024,
+05314,"Bonn, kreisfreie Stadt",2020,330579.0
+05314,"Bonn, kreisfreie Stadt",2021,331885.0
+05314,"Bonn, kreisfreie Stadt",2022,322221.0
+05314,"Bonn, kreisfreie Stadt",2023,321680.0
+05314,"Bonn, kreisfreie Stadt",2024,323336.0
+05315,"Kï¿½ln, kreisfreie Stadt",2020,1083498.0
+05315,"Kï¿½ln, kreisfreie Stadt",2021,1073096.0
+05315,"Kï¿½ln, kreisfreie Stadt",2022,1021253.0
+05315,"Kï¿½ln, kreisfreie Stadt",2023,1024408.0
+05315,"Kï¿½ln, kreisfreie Stadt",2024,1024621.0
+05316,"Leverkusen, kreisfreie Stadt",2020,163905.0
+05316,"Leverkusen, kreisfreie Stadt",2021,163851.0
+05316,"Leverkusen, kreisfreie Stadt",2022,167174.0
+05316,"Leverkusen, kreisfreie Stadt",2023,167850.0
+05316,"Leverkusen, kreisfreie Stadt",2024,168581.0
+05334,"Stï¿½dteregion Aachen, Landkreis",2020,556631.0
+05334,"Stï¿½dteregion Aachen, Landkreis",2021,556673.0
+05334,"Stï¿½dteregion Aachen, Landkreis",2022,580359.0
+05334,"Stï¿½dteregion Aachen, Landkreis",2023,582463.0
+05334,"Stï¿½dteregion Aachen, Landkreis",2024,582410.0
+05354,"Aachen, Landkreis (bis 20.10.2009)",2020,
+05354,"Aachen, Landkreis (bis 20.10.2009)",2021,
+05354,"Aachen, Landkreis (bis 20.10.2009)",2022,
+05354,"Aachen, Landkreis (bis 20.10.2009)",2023,
+05354,"Aachen, Landkreis (bis 20.10.2009)",2024,
+05358,"Dï¿½ren, Landkreis",2020,265140.0
+05358,"Dï¿½ren, Landkreis",2021,266771.0
+05358,"Dï¿½ren, Landkreis",2022,276675.0
+05358,"Dï¿½ren, Landkreis",2023,278462.0
+05358,"Dï¿½ren, Landkreis",2024,279285.0
+05362,Rhein-Erft-Kreis,2020,469611.0
+05362,Rhein-Erft-Kreis,2021,471891.0
+05362,Rhein-Erft-Kreis,2022,473669.0
+05362,Rhein-Erft-Kreis,2023,476412.0
+05362,Rhein-Erft-Kreis,2024,477988.0
+05366,"Euskirchen, Landkreis",2020,194359.0
+05366,"Euskirchen, Landkreis",2021,194701.0
+05366,"Euskirchen, Landkreis",2022,199228.0
+05366,"Euskirchen, Landkreis",2023,201841.0
+05366,"Euskirchen, Landkreis",2024,202609.0
+05370,"Heinsberg, Landkreis",2020,256458.0
+05370,"Heinsberg, Landkreis",2021,258306.0
+05370,"Heinsberg, Landkreis",2022,261239.0
+05370,"Heinsberg, Landkreis",2023,262149.0
+05370,"Heinsberg, Landkreis",2024,263681.0
+05374,Oberbergischer Kreis,2020,271699.0
+05374,Oberbergischer Kreis,2021,271621.0
+05374,Oberbergischer Kreis,2022,273634.0
+05374,Oberbergischer Kreis,2023,273963.0
+05374,Oberbergischer Kreis,2024,274057.0
+05378,Rheinisch-Bergischer Kreis,2020,283275.0
+05378,Rheinisch-Bergischer Kreis,2021,283429.0
+05378,Rheinisch-Bergischer Kreis,2022,283037.0
+05378,Rheinisch-Bergischer Kreis,2023,283607.0
+05378,Rheinisch-Bergischer Kreis,2024,284273.0
+05382,Rhein-Sieg-Kreis,2020,600375.0
+05382,Rhein-Sieg-Kreis,2021,600732.0
+05382,Rhein-Sieg-Kreis,2022,602933.0
+05382,Rhein-Sieg-Kreis,2023,605283.0
+05382,Rhein-Sieg-Kreis,2024,605441.0
+05512,"Bottrop, kreisfreie Stadt",2020,117388.0
+05512,"Bottrop, kreisfreie Stadt",2021,117311.0
+05512,"Bottrop, kreisfreie Stadt",2022,118327.0
+05512,"Bottrop, kreisfreie Stadt",2023,118912.0
+05512,"Bottrop, kreisfreie Stadt",2024,118535.0
+05513,"Gelsenkirchen, kreisfreie Stadt",2020,259105.0
+05513,"Gelsenkirchen, kreisfreie Stadt",2021,260126.0
+05513,"Gelsenkirchen, kreisfreie Stadt",2022,264644.0
+05513,"Gelsenkirchen, kreisfreie Stadt",2023,267284.0
+05513,"Gelsenkirchen, kreisfreie Stadt",2024,267930.0
+05515,"Mï¿½nster, kreisfreie Stadt",2020,316403.0
+05515,"Mï¿½nster, kreisfreie Stadt",2021,317713.0
+05515,"Mï¿½nster, kreisfreie Stadt",2022,305222.0
+05515,"Mï¿½nster, kreisfreie Stadt",2023,307071.0
+05515,"Mï¿½nster, kreisfreie Stadt",2024,308258.0
+05554,"Borken, Landkreis",2020,371898.0
+05554,"Borken, Landkreis",2021,373582.0
+05554,"Borken, Landkreis",2022,377154.0
+05554,"Borken, Landkreis",2023,379787.0
+05554,"Borken, Landkreis",2024,380796.0
+05558,"Coesfeld, Landkreis",2020,220712.0
+05558,"Coesfeld, Landkreis",2021,221352.0
+05558,"Coesfeld, Landkreis",2022,224745.0
+05558,"Coesfeld, Landkreis",2023,226217.0
+05558,"Coesfeld, Landkreis",2024,227859.0
+05562,"Recklinghausen, Landkreis",2020,613599.0
+05562,"Recklinghausen, Landkreis",2021,612801.0
+05562,"Recklinghausen, Landkreis",2022,621933.0
+05562,"Recklinghausen, Landkreis",2023,622855.0
+05562,"Recklinghausen, Landkreis",2024,621305.0
+05566,"Steinfurt, Landkreis",2020,448197.0
+05566,"Steinfurt, Landkreis",2021,450176.0
+05566,"Steinfurt, Landkreis",2022,447192.0
+05566,"Steinfurt, Landkreis",2023,450042.0
+05566,"Steinfurt, Landkreis",2024,451712.0
+05570,"Warendorf, Landkreis",2020,277417.0
+05570,"Warendorf, Landkreis",2021,278176.0
+05570,"Warendorf, Landkreis",2022,281090.0
+05570,"Warendorf, Landkreis",2023,282216.0
+05570,"Warendorf, Landkreis",2024,282639.0
+05711,"Bielefeld, kreisfreie Stadt",2020,333509.0
+05711,"Bielefeld, kreisfreie Stadt",2021,334002.0
+05711,"Bielefeld, kreisfreie Stadt",2022,331385.0
+05711,"Bielefeld, kreisfreie Stadt",2023,331519.0
+05711,"Bielefeld, kreisfreie Stadt",2024,331605.0
+05754,"Gï¿½tersloh, Landkreis",2020,364818.0
+05754,"Gï¿½tersloh, Landkreis",2021,366104.0
+05754,"Gï¿½tersloh, Landkreis",2022,361931.0
+05754,"Gï¿½tersloh, Landkreis",2023,363674.0
+05754,"Gï¿½tersloh, Landkreis",2024,363982.0
+05758,"Herford, Landkreis",2020,250547.0
+05758,"Herford, Landkreis",2021,250635.0
+05758,"Herford, Landkreis",2022,254949.0
+05758,"Herford, Landkreis",2023,254593.0
+05758,"Herford, Landkreis",2024,254404.0
+05762,"Hï¿½xter, Landkreis",2020,139729.0
+05762,"Hï¿½xter, Landkreis",2021,139994.0
+05762,"Hï¿½xter, Landkreis",2022,138943.0
+05762,"Hï¿½xter, Landkreis",2023,139042.0
+05762,"Hï¿½xter, Landkreis",2024,139252.0
+05766,"Lippe, Landkreis",2020,346970.0
+05766,"Lippe, Landkreis",2021,346151.0
+05766,"Lippe, Landkreis",2022,348275.0
+05766,"Lippe, Landkreis",2023,347613.0
+05766,"Lippe, Landkreis",2024,347149.0
+05770,"Minden-Lï¿½bbecke, Landkreis",2020,310270.0
+05770,"Minden-Lï¿½bbecke, Landkreis",2021,311214.0
+05770,"Minden-Lï¿½bbecke, Landkreis",2022,320648.0
+05770,"Minden-Lï¿½bbecke, Landkreis",2023,320925.0
+05770,"Minden-Lï¿½bbecke, Landkreis",2024,320557.0
+05774,"Paderborn, Landkreis",2020,308335.0
+05774,"Paderborn, Landkreis",2021,309380.0
+05774,"Paderborn, Landkreis",2022,313921.0
+05774,"Paderborn, Landkreis",2023,315606.0
+05774,"Paderborn, Landkreis",2024,315912.0
+05911,"Bochum, kreisfreie Stadt",2020,364454.0
+05911,"Bochum, kreisfreie Stadt",2021,363441.0
+05911,"Bochum, kreisfreie Stadt",2022,356209.0
+05911,"Bochum, kreisfreie Stadt",2023,357024.0
+05911,"Bochum, kreisfreie Stadt",2024,358676.0
+05913,"Dortmund, kreisfreie Stadt",2020,587696.0
+05913,"Dortmund, kreisfreie Stadt",2021,586852.0
+05913,"Dortmund, kreisfreie Stadt",2022,599370.0
+05913,"Dortmund, kreisfreie Stadt",2023,601343.0
+05913,"Dortmund, kreisfreie Stadt",2024,603462.0
+05914,"Hagen, kreisfreie Stadt",2020,188687.0
+05914,"Hagen, kreisfreie Stadt",2021,188713.0
+05914,"Hagen, kreisfreie Stadt",2022,189957.0
+05914,"Hagen, kreisfreie Stadt",2023,190640.0
+05914,"Hagen, kreisfreie Stadt",2024,190384.0
+05915,"Hamm, kreisfreie Stadt",2020,178967.0
+05915,"Hamm, kreisfreie Stadt",2021,179238.0
+05915,"Hamm, kreisfreie Stadt",2022,179479.0
+05915,"Hamm, kreisfreie Stadt",2023,179380.0
+05915,"Hamm, kreisfreie Stadt",2024,179968.0
+05916,"Herne, kreisfreie Stadt",2020,156940.0
+05916,"Herne, kreisfreie Stadt",2021,156621.0
+05916,"Herne, kreisfreie Stadt",2022,155603.0
+05916,"Herne, kreisfreie Stadt",2023,156154.0
+05916,"Herne, kreisfreie Stadt",2024,155851.0
+05954,Ennepe-Ruhr-Kreis,2020,323130.0
+05954,Ennepe-Ruhr-Kreis,2021,322143.0
+05954,Ennepe-Ruhr-Kreis,2022,315325.0
+05954,Ennepe-Ruhr-Kreis,2023,315069.0
+05954,Ennepe-Ruhr-Kreis,2024,314167.0
+05958,Hochsauerlandkreis,2020,259030.0
+05958,Hochsauerlandkreis,2021,258615.0
+05958,Hochsauerlandkreis,2022,261006.0
+05958,Hochsauerlandkreis,2023,261193.0
+05958,Hochsauerlandkreis,2024,260843.0
+05962,Mï¿½rkischer Kreis,2020,408662.0
+05962,Mï¿½rkischer Kreis,2021,406793.0
+05962,Mï¿½rkischer Kreis,2022,410629.0
+05962,Mï¿½rkischer Kreis,2023,408899.0
+05962,Mï¿½rkischer Kreis,2024,408046.0
+05966,"Olpe, Landkreis",2020,133362.0
+05966,"Olpe, Landkreis",2021,133120.0
+05966,"Olpe, Landkreis",2022,132519.0
+05966,"Olpe, Landkreis",2023,132426.0
+05966,"Olpe, Landkreis",2024,132346.0
+05970,"Siegen-Wittgenstein, Landkreis",2020,275491.0
+05970,"Siegen-Wittgenstein, Landkreis",2021,274342.0
+05970,"Siegen-Wittgenstein, Landkreis",2022,274634.0
+05970,"Siegen-Wittgenstein, Landkreis",2023,274379.0
+05970,"Siegen-Wittgenstein, Landkreis",2024,274074.0
+05974,"Soest, Landkreis",2020,301016.0
+05974,"Soest, Landkreis",2021,302298.0
+05974,"Soest, Landkreis",2022,299749.0
+05974,"Soest, Landkreis",2023,300347.0
+05974,"Soest, Landkreis",2024,300297.0
+05978,"Unna, Landkreis",2020,393618.0
+05978,"Unna, Landkreis",2021,393063.0
+05978,"Unna, Landkreis",2022,395619.0
+05978,"Unna, Landkreis",2023,396283.0
+05978,"Unna, Landkreis",2024,393784.0
+06411,"Darmstadt, kreisfreie Stadt",2020,159174.0
+06411,"Darmstadt, kreisfreie Stadt",2021,159631.0
+06411,"Darmstadt, kreisfreie Stadt",2022,162329.0
+06411,"Darmstadt, kreisfreie Stadt",2023,164832.0
+06411,"Darmstadt, kreisfreie Stadt",2024,167029.0
+06412,"Frankfurt am Main, kreisfreie Stadt",2020,764104.0
+06412,"Frankfurt am Main, kreisfreie Stadt",2021,759224.0
+06412,"Frankfurt am Main, kreisfreie Stadt",2022,747389.0
+06412,"Frankfurt am Main, kreisfreie Stadt",2023,749596.0
+06412,"Frankfurt am Main, kreisfreie Stadt",2024,756021.0
+06413,"Offenbach am Main, kreisfreie Stadt",2020,130892.0
+06413,"Offenbach am Main, kreisfreie Stadt",2021,131295.0
+06413,"Offenbach am Main, kreisfreie Stadt",2022,130542.0
+06413,"Offenbach am Main, kreisfreie Stadt",2023,131845.0
+06413,"Offenbach am Main, kreisfreie Stadt",2024,132746.0
+06414,"Wiesbaden, kreisfreie Stadt",2020,278609.0
+06414,"Wiesbaden, kreisfreie Stadt",2021,278950.0
+06414,"Wiesbaden, kreisfreie Stadt",2022,284787.0
+06414,"Wiesbaden, kreisfreie Stadt",2023,287241.0
+06414,"Wiesbaden, kreisfreie Stadt",2024,288850.0
+06431,"Bergstraï¿½e, Landkreis",2020,271015.0
+06431,"Bergstraï¿½e, Landkreis",2021,271166.0
+06431,"Bergstraï¿½e, Landkreis",2022,273288.0
+06431,"Bergstraï¿½e, Landkreis",2023,274484.0
+06431,"Bergstraï¿½e, Landkreis",2024,274169.0
+06432,"Darmstadt-Dieburg, Landkreis",2020,297701.0
+06432,"Darmstadt-Dieburg, Landkreis",2021,296900.0
+06432,"Darmstadt-Dieburg, Landkreis",2022,300928.0
+06432,"Darmstadt-Dieburg, Landkreis",2023,302263.0
+06432,"Darmstadt-Dieburg, Landkreis",2024,302021.0
+06433,"Groï¿½-Gerau, Landkreis",2020,275807.0
+06433,"Groï¿½-Gerau, Landkreis",2021,276307.0
+06433,"Groï¿½-Gerau, Landkreis",2022,266326.0
+06433,"Groï¿½-Gerau, Landkreis",2023,267920.0
+06433,"Groï¿½-Gerau, Landkreis",2024,268310.0
+06434,Hochtaunuskreis,2020,237281.0
+06434,Hochtaunuskreis,2021,237041.0
+06434,Hochtaunuskreis,2022,238534.0
+06434,Hochtaunuskreis,2023,240622.0
+06434,Hochtaunuskreis,2024,241664.0
+06435,Main-Kinzig-Kreis,2020,421689.0
+06435,Main-Kinzig-Kreis,2021,423465.0
+06435,Main-Kinzig-Kreis,2022,415753.0
+06435,Main-Kinzig-Kreis,2023,419055.0
+06435,Main-Kinzig-Kreis,2024,420914.0
+06436,Main-Taunus-Kreis,2020,239264.0
+06436,Main-Taunus-Kreis,2021,239276.0
+06436,Main-Taunus-Kreis,2022,237671.0
+06436,Main-Taunus-Kreis,2023,238593.0
+06436,Main-Taunus-Kreis,2024,238775.0
+06437,Odenwaldkreis,2020,96754.0
+06437,Odenwaldkreis,2021,96953.0
+06437,Odenwaldkreis,2022,94619.0
+06437,Odenwaldkreis,2023,94246.0
+06437,Odenwaldkreis,2024,93846.0
+06438,"Offenbach, Landkreis",2020,356542.0
+06438,"Offenbach, Landkreis",2021,357466.0
+06438,"Offenbach, Landkreis",2022,353948.0
+06438,"Offenbach, Landkreis",2023,356578.0
+06438,"Offenbach, Landkreis",2024,358022.0
+06439,Rheingau-Taunus-Kreis,2020,187433.0
+06439,Rheingau-Taunus-Kreis,2021,187229.0
+06439,Rheingau-Taunus-Kreis,2022,185684.0
+06439,Rheingau-Taunus-Kreis,2023,186050.0
+06439,Rheingau-Taunus-Kreis,2024,185651.0
+06440,Wetteraukreis,2020,310353.0
+06440,Wetteraukreis,2021,311661.0
+06440,Wetteraukreis,2022,309348.0
+06440,Wetteraukreis,2023,310705.0
+06440,Wetteraukreis,2024,311593.0
+06531,"Gieï¿½en, Landkreis",2020,271667.0
+06531,"Gieï¿½en, Landkreis",2021,272874.0
+06531,"Gieï¿½en, Landkreis",2022,266314.0
+06531,"Gieï¿½en, Landkreis",2023,268141.0
+06531,"Gieï¿½en, Landkreis",2024,268418.0
+06532,Lahn-Dill-Kreis,2020,253373.0
+06532,Lahn-Dill-Kreis,2021,253364.0
+06532,Lahn-Dill-Kreis,2022,253208.0
+06532,Lahn-Dill-Kreis,2023,254444.0
+06532,Lahn-Dill-Kreis,2024,254074.0
+06533,"Limburg-Weilburg, Landkreis",2020,172291.0
+06533,"Limburg-Weilburg, Landkreis",2021,172759.0
+06533,"Limburg-Weilburg, Landkreis",2022,173484.0
+06533,"Limburg-Weilburg, Landkreis",2023,174281.0
+06533,"Limburg-Weilburg, Landkreis",2024,173830.0
+06534,"Marburg-Biedenkopf, Landkreis",2020,245903.0
+06534,"Marburg-Biedenkopf, Landkreis",2021,246097.0
+06534,"Marburg-Biedenkopf, Landkreis",2022,242197.0
+06534,"Marburg-Biedenkopf, Landkreis",2023,243093.0
+06534,"Marburg-Biedenkopf, Landkreis",2024,242805.0
+06535,Vogelsbergkreis,2020,105506.0
+06535,Vogelsbergkreis,2021,105671.0
+06535,Vogelsbergkreis,2022,101545.0
+06535,Vogelsbergkreis,2023,101494.0
+06535,Vogelsbergkreis,2024,101163.0
+06611,"Kassel, kreisfreie Stadt",2020,201048.0
+06611,"Kassel, kreisfreie Stadt",2021,200406.0
+06611,"Kassel, kreisfreie Stadt",2022,196575.0
+06611,"Kassel, kreisfreie Stadt",2023,197065.0
+06611,"Kassel, kreisfreie Stadt",2024,197230.0
+06631,"Fulda, Landkreis",2020,223023.0
+06631,"Fulda, Landkreis",2021,223572.0
+06631,"Fulda, Landkreis",2022,221445.0
+06631,"Fulda, Landkreis",2023,222688.0
+06631,"Fulda, Landkreis",2024,222283.0
+06632,"Hersfeld-Rotenburg, Landkreis",2020,120304.0
+06632,"Hersfeld-Rotenburg, Landkreis",2021,120163.0
+06632,"Hersfeld-Rotenburg, Landkreis",2022,118183.0
+06632,"Hersfeld-Rotenburg, Landkreis",2023,118010.0
+06632,"Hersfeld-Rotenburg, Landkreis",2024,117414.0
+06633,"Kassel, Landkreis",2020,237007.0
+06633,"Kassel, Landkreis",2021,237268.0
+06633,"Kassel, Landkreis",2022,230318.0
+06633,"Kassel, Landkreis",2023,230742.0
+06633,"Kassel, Landkreis",2024,231073.0
+06634,Schwalm-Eder-Kreis,2020,179840.0
+06634,Schwalm-Eder-Kreis,2021,180052.0
+06634,Schwalm-Eder-Kreis,2022,179406.0
+06634,Schwalm-Eder-Kreis,2023,180368.0
+06634,Schwalm-Eder-Kreis,2024,180071.0
+06635,"Waldeck-Frankenberg, Landkreis",2020,156528.0
+06635,"Waldeck-Frankenberg, Landkreis",2021,156513.0
+06635,"Waldeck-Frankenberg, Landkreis",2022,155068.0
+06635,"Waldeck-Frankenberg, Landkreis",2023,155135.0
+06635,"Waldeck-Frankenberg, Landkreis",2024,155126.0
+06636,Werra-Meiï¿½ner-Kreis,2020,100046.0
+06636,Werra-Meiï¿½ner-Kreis,2021,99714.0
+06636,Werra-Meiï¿½ner-Kreis,2022,98044.0
+06636,Werra-Meiï¿½ner-Kreis,2023,98055.0
+06636,Werra-Meiï¿½ner-Kreis,2024,97695.0
+07111,"Koblenz, kreisfreie Stadt",2020,113388.0
+07111,"Koblenz, kreisfreie Stadt",2021,113638.0
+07111,"Koblenz, kreisfreie Stadt",2022,113294.0
+07111,"Koblenz, kreisfreie Stadt",2023,113346.0
+07111,"Koblenz, kreisfreie Stadt",2024,113378.0
+07131,"Ahrweiler, Landkreis",2020,130479.0
+07131,"Ahrweiler, Landkreis",2021,128146.0
+07131,"Ahrweiler, Landkreis",2022,127881.0
+07131,"Ahrweiler, Landkreis",2023,128546.0
+07131,"Ahrweiler, Landkreis",2024,129353.0
+07132,"Altenkirchen (Westerwald), Landkreis",2020,129087.0
+07132,"Altenkirchen (Westerwald), Landkreis",2021,129261.0
+07132,"Altenkirchen (Westerwald), Landkreis",2022,131657.0
+07132,"Altenkirchen (Westerwald), Landkreis",2023,132149.0
+07132,"Altenkirchen (Westerwald), Landkreis",2024,132125.0
+07133,"Bad Kreuznach, Landkreis",2020,158746.0
+07133,"Bad Kreuznach, Landkreis",2021,159402.0
+07133,"Bad Kreuznach, Landkreis",2022,163979.0
+07133,"Bad Kreuznach, Landkreis",2023,164564.0
+07133,"Bad Kreuznach, Landkreis",2024,164748.0
+07134,"Birkenfeld, Landkreis",2020,80830.0
+07134,"Birkenfeld, Landkreis",2021,80849.0
+07134,"Birkenfeld, Landkreis",2022,82350.0
+07134,"Birkenfeld, Landkreis",2023,82622.0
+07134,"Birkenfeld, Landkreis",2024,82611.0
+07135,"Cochem-Zell, Landkreis",2020,61578.0
+07135,"Cochem-Zell, Landkreis",2021,61735.0
+07135,"Cochem-Zell, Landkreis",2022,61509.0
+07135,"Cochem-Zell, Landkreis",2023,61538.0
+07135,"Cochem-Zell, Landkreis",2024,61608.0
+07137,"Mayen-Koblenz, Landkreis",2020,214786.0
+07137,"Mayen-Koblenz, Landkreis",2021,215446.0
+07137,"Mayen-Koblenz, Landkreis",2022,216056.0
+07137,"Mayen-Koblenz, Landkreis",2023,216874.0
+07137,"Mayen-Koblenz, Landkreis",2024,217228.0
+07138,"Neuwied, Landkreis",2020,183131.0
+07138,"Neuwied, Landkreis",2021,184390.0
+07138,"Neuwied, Landkreis",2022,187905.0
+07138,"Neuwied, Landkreis",2023,188656.0
+07138,"Neuwied, Landkreis",2024,189061.0
+07140,Rhein-Hunsrï¿½ck-Kreis,2020,103401.0
+07140,Rhein-Hunsrï¿½ck-Kreis,2021,103767.0
+07140,Rhein-Hunsrï¿½ck-Kreis,2022,105740.0
+07140,Rhein-Hunsrï¿½ck-Kreis,2023,106390.0
+07140,Rhein-Hunsrï¿½ck-Kreis,2024,106705.0
+07141,Rhein-Lahn-Kreis,2020,122574.0
+07141,Rhein-Lahn-Kreis,2021,122724.0
+07141,Rhein-Lahn-Kreis,2022,124860.0
+07141,Rhein-Lahn-Kreis,2023,125283.0
+07141,Rhein-Lahn-Kreis,2024,125588.0
+07143,Westerwaldkreis,2020,202830.0
+07143,Westerwaldkreis,2021,203831.0
+07143,Westerwaldkreis,2022,207154.0
+07143,Westerwaldkreis,2023,207648.0
+07143,Westerwaldkreis,2024,207803.0
+07211,"Trier, kreisfreie Stadt",2020,110674.0
+07211,"Trier, kreisfreie Stadt",2021,110570.0
+07211,"Trier, kreisfreie Stadt",2022,103307.0
+07211,"Trier, kreisfreie Stadt",2023,103986.0
+07211,"Trier, kreisfreie Stadt",2024,104342.0
+07231,"Bernkastel-Wittlich, Landkreis",2020,112685.0
+07231,"Bernkastel-Wittlich, Landkreis",2021,113194.0
+07231,"Bernkastel-Wittlich, Landkreis",2022,113299.0
+07231,"Bernkastel-Wittlich, Landkreis",2023,113327.0
+07231,"Bernkastel-Wittlich, Landkreis",2024,113187.0
+07232,Eifelkreis Bitburg-Prï¿½m,2020,100055.0
+07232,Eifelkreis Bitburg-Prï¿½m,2021,100959.0
+07232,Eifelkreis Bitburg-Prï¿½m,2022,99866.0
+07232,Eifelkreis Bitburg-Prï¿½m,2023,100740.0
+07232,Eifelkreis Bitburg-Prï¿½m,2024,99788.0
+07233,"Vulkaneifel, Landkreis",2020,60491.0
+07233,"Vulkaneifel, Landkreis",2021,60882.0
+07233,"Vulkaneifel, Landkreis",2022,59389.0
+07233,"Vulkaneifel, Landkreis",2023,59542.0
+07233,"Vulkaneifel, Landkreis",2024,59313.0
+07235,"Trier-Saarburg, Landkreis",2020,150533.0
+07235,"Trier-Saarburg, Landkreis",2021,151167.0
+07235,"Trier-Saarburg, Landkreis",2022,149015.0
+07235,"Trier-Saarburg, Landkreis",2023,149056.0
+07235,"Trier-Saarburg, Landkreis",2024,148953.0
+07311,"Frankenthal (Pfalz), kreisfreie Stadt",2020,48750.0
+07311,"Frankenthal (Pfalz), kreisfreie Stadt",2021,48773.0
+07311,"Frankenthal (Pfalz), kreisfreie Stadt",2022,48007.0
+07311,"Frankenthal (Pfalz), kreisfreie Stadt",2023,48107.0
+07311,"Frankenthal (Pfalz), kreisfreie Stadt",2024,48140.0
+07312,"Kaiserslautern, kreisfreie Stadt",2020,99662.0
+07312,"Kaiserslautern, kreisfreie Stadt",2021,99292.0
+07312,"Kaiserslautern, kreisfreie Stadt",2022,100316.0
+07312,"Kaiserslautern, kreisfreie Stadt",2023,100571.0
+07312,"Kaiserslautern, kreisfreie Stadt",2024,100426.0
+07313,"Landau in der Pfalz, kreisfreie Stadt",2020,46685.0
+07313,"Landau in der Pfalz, kreisfreie Stadt",2021,46919.0
+07313,"Landau in der Pfalz, kreisfreie Stadt",2022,47455.0
+07313,"Landau in der Pfalz, kreisfreie Stadt",2023,48202.0
+07313,"Landau in der Pfalz, kreisfreie Stadt",2024,48209.0
+07314,"Ludwigshafen am Rhein, kreisfreie Stadt",2020,172557.0
+07314,"Ludwigshafen am Rhein, kreisfreie Stadt",2021,172145.0
+07314,"Ludwigshafen am Rhein, kreisfreie Stadt",2022,173869.0
+07314,"Ludwigshafen am Rhein, kreisfreie Stadt",2023,175816.0
+07314,"Ludwigshafen am Rhein, kreisfreie Stadt",2024,177222.0
+07315,"Mainz, kreisfreie Stadt",2020,217123.0
+07315,"Mainz, kreisfreie Stadt",2021,217556.0
+07315,"Mainz, kreisfreie Stadt",2022,221516.0
+07315,"Mainz, kreisfreie Stadt",2023,223871.0
+07315,"Mainz, kreisfreie Stadt",2024,224684.0
+07316,"Neustadt an der Weinstraï¿½e, kreisfreie Stadt",2020,53306.0
+07316,"Neustadt an der Weinstraï¿½e, kreisfreie Stadt",2021,53491.0
+07316,"Neustadt an der Weinstraï¿½e, kreisfreie Stadt",2022,52759.0
+07316,"Neustadt an der Weinstraï¿½e, kreisfreie Stadt",2023,52709.0
+07316,"Neustadt an der Weinstraï¿½e, kreisfreie Stadt",2024,52945.0
+07317,"Pirmasens, kreisfreie Stadt",2020,40176.0
+07317,"Pirmasens, kreisfreie Stadt",2021,40054.0
+07317,"Pirmasens, kreisfreie Stadt",2022,39324.0
+07317,"Pirmasens, kreisfreie Stadt",2023,39576.0
+07317,"Pirmasens, kreisfreie Stadt",2024,39761.0
+07318,"Speyer, kreisfreie Stadt",2020,50741.0
+07318,"Speyer, kreisfreie Stadt",2021,50565.0
+07318,"Speyer, kreisfreie Stadt",2022,49881.0
+07318,"Speyer, kreisfreie Stadt",2023,49874.0
+07318,"Speyer, kreisfreie Stadt",2024,49564.0
+07319,"Worms, kreisfreie Stadt",2020,83459.0
+07319,"Worms, kreisfreie Stadt",2021,83850.0
+07319,"Worms, kreisfreie Stadt",2022,85378.0
+07319,"Worms, kreisfreie Stadt",2023,86403.0
+07319,"Worms, kreisfreie Stadt",2024,86753.0
+07320,"Zweibrï¿½cken, kreisfreie Stadt",2020,34001.0
+07320,"Zweibrï¿½cken, kreisfreie Stadt",2021,34091.0
+07320,"Zweibrï¿½cken, kreisfreie Stadt",2022,33264.0
+07320,"Zweibrï¿½cken, kreisfreie Stadt",2023,33355.0
+07320,"Zweibrï¿½cken, kreisfreie Stadt",2024,33323.0
+07331,"Alzey-Worms, Landkreis",2020,130715.0
+07331,"Alzey-Worms, Landkreis",2021,131330.0
+07331,"Alzey-Worms, Landkreis",2022,129893.0
+07331,"Alzey-Worms, Landkreis",2023,130794.0
+07331,"Alzey-Worms, Landkreis",2024,131238.0
+07332,"Bad Dï¿½rkheim, Landkreis",2020,133004.0
+07332,"Bad Dï¿½rkheim, Landkreis",2021,133206.0
+07332,"Bad Dï¿½rkheim, Landkreis",2022,134032.0
+07332,"Bad Dï¿½rkheim, Landkreis",2023,134221.0
+07332,"Bad Dï¿½rkheim, Landkreis",2024,134329.0
+07333,Donnersbergkreis,2020,75539.0
+07333,Donnersbergkreis,2021,75569.0
+07333,Donnersbergkreis,2022,74854.0
+07333,Donnersbergkreis,2023,74728.0
+07333,Donnersbergkreis,2024,74783.0
+07334,"Germersheim, Landkreis",2020,129006.0
+07334,"Germersheim, Landkreis",2021,129313.0
+07334,"Germersheim, Landkreis",2022,130935.0
+07334,"Germersheim, Landkreis",2023,131678.0
+07334,"Germersheim, Landkreis",2024,131383.0
+07335,"Kaiserslautern, Landkreis",2020,106320.0
+07335,"Kaiserslautern, Landkreis",2021,106853.0
+07335,"Kaiserslautern, Landkreis",2022,105752.0
+07335,"Kaiserslautern, Landkreis",2023,106082.0
+07335,"Kaiserslautern, Landkreis",2024,106343.0
+07336,"Kusel, Landkreis",2020,70105.0
+07336,"Kusel, Landkreis",2021,69949.0
+07336,"Kusel, Landkreis",2022,70124.0
+07336,"Kusel, Landkreis",2023,69846.0
+07336,"Kusel, Landkreis",2024,69334.0
+07337,"Sï¿½dliche Weinstraï¿½e, Landkreis",2020,110783.0
+07337,"Sï¿½dliche Weinstraï¿½e, Landkreis",2021,111279.0
+07337,"Sï¿½dliche Weinstraï¿½e, Landkreis",2022,112907.0
+07337,"Sï¿½dliche Weinstraï¿½e, Landkreis",2023,113150.0
+07337,"Sï¿½dliche Weinstraï¿½e, Landkreis",2024,113031.0
+07338,Rhein-Pfalz-Kreis,2020,154754.0
+07338,Rhein-Pfalz-Kreis,2021,155050.0
+07338,Rhein-Pfalz-Kreis,2022,155061.0
+07338,Rhein-Pfalz-Kreis,2023,155525.0
+07338,Rhein-Pfalz-Kreis,2024,155882.0
+07339,"Mainz-Bingen, Landkreis",2020,211525.0
+07339,"Mainz-Bingen, Landkreis",2021,212420.0
+07339,"Mainz-Bingen, Landkreis",2022,205823.0
+07339,"Mainz-Bingen, Landkreis",2023,206220.0
+07339,"Mainz-Bingen, Landkreis",2024,206454.0
+07340,"Sï¿½dwestpfalz, Landkreis",2020,94912.0
+07340,"Sï¿½dwestpfalz, Landkreis",2021,94819.0
+07340,"Sï¿½dwestpfalz, Landkreis",2022,90144.0
+07340,"Sï¿½dwestpfalz, Landkreis",2023,90168.0
+07340,"Sï¿½dwestpfalz, Landkreis",2024,89974.0
+08111,"Stuttgart, kreisfreie Stadt",2020,630305.0
+08111,"Stuttgart, kreisfreie Stadt",2021,626275.0
+08111,"Stuttgart, kreisfreie Stadt",2022,612041.0
+08111,"Stuttgart, kreisfreie Stadt",2023,613111.0
+08111,"Stuttgart, kreisfreie Stadt",2024,612663.0
+08115,"Bï¿½blingen, Landkreis",2020,392898.0
+08115,"Bï¿½blingen, Landkreis",2021,393195.0
+08115,"Bï¿½blingen, Landkreis",2022,391368.0
+08115,"Bï¿½blingen, Landkreis",2023,394261.0
+08115,"Bï¿½blingen, Landkreis",2024,395167.0
+08116,"Esslingen, Landkreis",2020,533617.0
+08116,"Esslingen, Landkreis",2021,533388.0
+08116,"Esslingen, Landkreis",2022,533434.0
+08116,"Esslingen, Landkreis",2023,536027.0
+08116,"Esslingen, Landkreis",2024,536601.0
+08117,"Gï¿½ppingen, Landkreis",2020,258781.0
+08117,"Gï¿½ppingen, Landkreis",2021,259046.0
+08117,"Gï¿½ppingen, Landkreis",2022,257269.0
+08117,"Gï¿½ppingen, Landkreis",2023,259232.0
+08117,"Gï¿½ppingen, Landkreis",2024,258809.0
+08118,"Ludwigsburg, Landkreis",2020,544971.0
+08118,"Ludwigsburg, Landkreis",2021,544679.0
+08118,"Ludwigsburg, Landkreis",2022,532109.0
+08118,"Ludwigsburg, Landkreis",2023,534808.0
+08118,"Ludwigsburg, Landkreis",2024,535374.0
+08119,Rems-Murr-Kreis,2020,427286.0
+08119,Rems-Murr-Kreis,2021,427316.0
+08119,Rems-Murr-Kreis,2022,438079.0
+08119,Rems-Murr-Kreis,2023,440103.0
+08119,Rems-Murr-Kreis,2024,440696.0
+08121,"Heilbronn, kreisfreie Stadt",2020,126458.0
+08121,"Heilbronn, kreisfreie Stadt",2021,125613.0
+08121,"Heilbronn, kreisfreie Stadt",2022,129931.0
+08121,"Heilbronn, kreisfreie Stadt",2023,131653.0
+08121,"Heilbronn, kreisfreie Stadt",2024,131986.0
+08125,"Heilbronn, Landkreis",2020,346363.0
+08125,"Heilbronn, Landkreis",2021,347798.0
+08125,"Heilbronn, Landkreis",2022,351402.0
+08125,"Heilbronn, Landkreis",2023,353609.0
+08125,"Heilbronn, Landkreis",2024,353877.0
+08126,Hohenlohekreis,2020,112765.0
+08126,Hohenlohekreis,2021,113318.0
+08126,Hohenlohekreis,2022,114553.0
+08126,Hohenlohekreis,2023,115335.0
+08126,Hohenlohekreis,2024,115644.0
+08127,"Schwï¿½bisch Hall, Landkreis",2020,197860.0
+08127,"Schwï¿½bisch Hall, Landkreis",2021,199398.0
+08127,"Schwï¿½bisch Hall, Landkreis",2022,198650.0
+08127,"Schwï¿½bisch Hall, Landkreis",2023,200597.0
+08127,"Schwï¿½bisch Hall, Landkreis",2024,200902.0
+08128,Main-Tauber-Kreis,2020,132684.0
+08128,Main-Tauber-Kreis,2021,132956.0
+08128,Main-Tauber-Kreis,2022,132793.0
+08128,Main-Tauber-Kreis,2023,133459.0
+08128,Main-Tauber-Kreis,2024,133169.0
+08135,"Heidenheim, Landkreis",2020,132812.0
+08135,"Heidenheim, Landkreis",2021,132958.0
+08135,"Heidenheim, Landkreis",2022,134766.0
+08135,"Heidenheim, Landkreis",2023,135241.0
+08135,"Heidenheim, Landkreis",2024,135235.0
+08136,Ostalbkreis,2020,314294.0
+08136,Ostalbkreis,2021,315009.0
+08136,Ostalbkreis,2022,316343.0
+08136,Ostalbkreis,2023,317263.0
+08136,Ostalbkreis,2024,317427.0
+08211,"Baden-Baden, kreisfreie Stadt",2020,55449.0
+08211,"Baden-Baden, kreisfreie Stadt",2021,55527.0
+08211,"Baden-Baden, kreisfreie Stadt",2022,56094.0
+08211,"Baden-Baden, kreisfreie Stadt",2023,56526.0
+08211,"Baden-Baden, kreisfreie Stadt",2024,56881.0
+08212,"Karlsruhe, kreisfreie Stadt",2020,308436.0
+08212,"Karlsruhe, kreisfreie Stadt",2021,306502.0
+08212,"Karlsruhe, kreisfreie Stadt",2022,306630.0
+08212,"Karlsruhe, kreisfreie Stadt",2023,308197.0
+08212,"Karlsruhe, kreisfreie Stadt",2024,309050.0
+08215,"Karlsruhe, Landkreis",2020,446852.0
+08215,"Karlsruhe, Landkreis",2021,448487.0
+08215,"Karlsruhe, Landkreis",2022,453378.0
+08215,"Karlsruhe, Landkreis",2023,455350.0
+08215,"Karlsruhe, Landkreis",2024,456264.0
+08216,"Rastatt, Landkreis",2020,232091.0
+08216,"Rastatt, Landkreis",2021,232296.0
+08216,"Rastatt, Landkreis",2022,230698.0
+08216,"Rastatt, Landkreis",2023,231356.0
+08216,"Rastatt, Landkreis",2024,230737.0
+08221,"Heidelberg, kreisfreie Stadt",2020,158741.0
+08221,"Heidelberg, kreisfreie Stadt",2021,159245.0
+08221,"Heidelberg, kreisfreie Stadt",2022,154570.0
+08221,"Heidelberg, kreisfreie Stadt",2023,155175.0
+08221,"Heidelberg, kreisfreie Stadt",2024,155756.0
+08222,"Mannheim, kreisfreie Stadt",2020,309721.0
+08222,"Mannheim, kreisfreie Stadt",2021,311831.0
+08222,"Mannheim, kreisfreie Stadt",2022,314961.0
+08222,"Mannheim, kreisfreie Stadt",2023,316256.0
+08222,"Mannheim, kreisfreie Stadt",2024,318035.0
+08225,Neckar-Odenwald-Kreis,2020,143797.0
+08225,Neckar-Odenwald-Kreis,2021,143929.0
+08225,Neckar-Odenwald-Kreis,2022,145039.0
+08225,Neckar-Odenwald-Kreis,2023,145681.0
+08225,Neckar-Odenwald-Kreis,2024,145263.0
+08226,Rhein-Neckar-Kreis,2020,548233.0
+08226,Rhein-Neckar-Kreis,2021,549030.0
+08226,Rhein-Neckar-Kreis,2022,556316.0
+08226,Rhein-Neckar-Kreis,2023,557819.0
+08226,Rhein-Neckar-Kreis,2024,558561.0
+08231,"Pforzheim, kreisfreie Stadt",2020,126016.0
+08231,"Pforzheim, kreisfreie Stadt",2021,125529.0
+08231,"Pforzheim, kreisfreie Stadt",2022,133896.0
+08231,"Pforzheim, kreisfreie Stadt",2023,135087.0
+08231,"Pforzheim, kreisfreie Stadt",2024,134912.0
+08235,"Calw, Landkreis",2020,160149.0
+08235,"Calw, Landkreis",2021,160686.0
+08235,"Calw, Landkreis",2022,160139.0
+08235,"Calw, Landkreis",2023,161181.0
+08235,"Calw, Landkreis",2024,161251.0
+08236,Enzkreis,2020,199752.0
+08236,Enzkreis,2021,200237.0
+08236,Enzkreis,2022,198950.0
+08236,Enzkreis,2023,199878.0
+08236,Enzkreis,2024,199745.0
+08237,"Freudenstadt, Landkreis",2020,118364.0
+08237,"Freudenstadt, Landkreis",2021,119183.0
+08237,"Freudenstadt, Landkreis",2022,121450.0
+08237,"Freudenstadt, Landkreis",2023,121901.0
+08237,"Freudenstadt, Landkreis",2024,121958.0
+08311,"Freiburg im Breisgau, kreisfreie Stadt",2020,230940.0
+08311,"Freiburg im Breisgau, kreisfreie Stadt",2021,231848.0
+08311,"Freiburg im Breisgau, kreisfreie Stadt",2022,235003.0
+08311,"Freiburg im Breisgau, kreisfreie Stadt",2023,236236.0
+08311,"Freiburg im Breisgau, kreisfreie Stadt",2024,237460.0
+08315,"Breisgau-Hochschwarzwald, Landkreis",2020,264867.0
+08315,"Breisgau-Hochschwarzwald, Landkreis",2021,265792.0
+08315,"Breisgau-Hochschwarzwald, Landkreis",2022,269631.0
+08315,"Breisgau-Hochschwarzwald, Landkreis",2023,271977.0
+08315,"Breisgau-Hochschwarzwald, Landkreis",2024,272558.0
+08316,"Emmendingen, Landkreis",2020,166862.0
+08316,"Emmendingen, Landkreis",2021,167945.0
+08316,"Emmendingen, Landkreis",2022,168004.0
+08316,"Emmendingen, Landkreis",2023,169470.0
+08316,"Emmendingen, Landkreis",2024,169787.0
+08317,Ortenaukreis,2020,432580.0
+08317,Ortenaukreis,2021,434535.0
+08317,Ortenaukreis,2022,440768.0
+08317,Ortenaukreis,2023,443482.0
+08317,Ortenaukreis,2024,444858.0
+08325,"Rottweil, Landkreis",2020,140166.0
+08325,"Rottweil, Landkreis",2021,140446.0
+08325,"Rottweil, Landkreis",2022,139968.0
+08325,"Rottweil, Landkreis",2023,140344.0
+08325,"Rottweil, Landkreis",2024,140237.0
+08326,Schwarzwald-Baar-Kreis,2020,212872.0
+08326,Schwarzwald-Baar-Kreis,2021,213385.0
+08326,Schwarzwald-Baar-Kreis,2022,212293.0
+08326,Schwarzwald-Baar-Kreis,2023,213922.0
+08326,Schwarzwald-Baar-Kreis,2024,214065.0
+08327,"Tuttlingen, Landkreis",2020,141682.0
+08327,"Tuttlingen, Landkreis",2021,142414.0
+08327,"Tuttlingen, Landkreis",2022,143677.0
+08327,"Tuttlingen, Landkreis",2023,144955.0
+08327,"Tuttlingen, Landkreis",2024,145208.0
+08335,"Konstanz, Landkreis",2020,286876.0
+08335,"Konstanz, Landkreis",2021,288097.0
+08335,"Konstanz, Landkreis",2022,289613.0
+08335,"Konstanz, Landkreis",2023,291397.0
+08335,"Konstanz, Landkreis",2024,291841.0
+08336,"Lï¿½rrach, Landkreis",2020,228842.0
+08336,"Lï¿½rrach, Landkreis",2021,229445.0
+08336,"Lï¿½rrach, Landkreis",2022,235252.0
+08336,"Lï¿½rrach, Landkreis",2023,237212.0
+08336,"Lï¿½rrach, Landkreis",2024,238263.0
+08337,"Waldshut, Landkreis",2020,171237.0
+08337,"Waldshut, Landkreis",2021,171249.0
+08337,"Waldshut, Landkreis",2022,170765.0
+08337,"Waldshut, Landkreis",2023,171777.0
+08337,"Waldshut, Landkreis",2024,171579.0
+08415,"Reutlingen, Landkreis",2020,287497.0
+08415,"Reutlingen, Landkreis",2021,288158.0
+08415,"Reutlingen, Landkreis",2022,291335.0
+08415,"Reutlingen, Landkreis",2023,293385.0
+08415,"Reutlingen, Landkreis",2024,293483.0
+08416,"Tï¿½bingen, Landkreis",2020,228471.0
+08416,"Tï¿½bingen, Landkreis",2021,229806.0
+08416,"Tï¿½bingen, Landkreis",2022,230987.0
+08416,"Tï¿½bingen, Landkreis",2023,232897.0
+08416,"Tï¿½bingen, Landkreis",2024,233546.0
+08417,Zollernalbkreis,2020,189862.0
+08417,Zollernalbkreis,2021,190545.0
+08417,Zollernalbkreis,2022,192726.0
+08417,Zollernalbkreis,2023,193339.0
+08417,Zollernalbkreis,2024,193326.0
+08421,"Ulm, kreisfreie Stadt",2020,126405.0
+08421,"Ulm, kreisfreie Stadt",2021,126949.0
+08421,"Ulm, kreisfreie Stadt",2022,127932.0
+08421,"Ulm, kreisfreie Stadt",2023,128998.0
+08421,"Ulm, kreisfreie Stadt",2024,129882.0
+08425,Alb-Donau-Kreis,2020,198204.0
+08425,Alb-Donau-Kreis,2021,199732.0
+08425,Alb-Donau-Kreis,2022,200294.0
+08425,Alb-Donau-Kreis,2023,201769.0
+08425,Alb-Donau-Kreis,2024,202354.0
+08426,"Biberach, Landkreis",2020,202250.0
+08426,"Biberach, Landkreis",2021,203244.0
+08426,"Biberach, Landkreis",2022,205073.0
+08426,"Biberach, Landkreis",2023,206783.0
+08426,"Biberach, Landkreis",2024,207415.0
+08435,Bodenseekreis,2020,217901.0
+08435,Bodenseekreis,2021,218885.0
+08435,Bodenseekreis,2022,219641.0
+08435,Bodenseekreis,2023,221208.0
+08435,Bodenseekreis,2024,220804.0
+08436,"Ravensburg, Landkreis",2020,285888.0
+08436,"Ravensburg, Landkreis",2021,287011.0
+08436,"Ravensburg, Landkreis",2022,287393.0
+08436,"Ravensburg, Landkreis",2023,289725.0
+08436,"Ravensburg, Landkreis",2024,291102.0
+08437,"Sigmaringen, Landkreis",2020,130946.0
+08437,"Sigmaringen, Landkreis",2021,131725.0
+08437,"Sigmaringen, Landkreis",2022,132507.0
+08437,"Sigmaringen, Landkreis",2023,132758.0
+08437,"Sigmaringen, Landkreis",2024,132167.0
+09161,"Ingolstadt, kreisfreie Stadt",2020,136952.0
+09161,"Ingolstadt, kreisfreie Stadt",2021,138016.0
+09161,"Ingolstadt, kreisfreie Stadt",2022,138263.0
+09161,"Ingolstadt, kreisfreie Stadt",2023,139536.0
+09161,"Ingolstadt, kreisfreie Stadt",2024,141185.0
+09162,"Mï¿½nchen, kreisfreie Stadt",2020,1488202.0
+09162,"Mï¿½nchen, kreisfreie Stadt",2021,1487708.0
+09162,"Mï¿½nchen, kreisfreie Stadt",2022,1490516.0
+09162,"Mï¿½nchen, kreisfreie Stadt",2023,1488719.0
+09162,"Mï¿½nchen, kreisfreie Stadt",2024,1505005.0
+09163,"Rosenheim, kreisfreie Stadt",2020,63591.0
+09163,"Rosenheim, kreisfreie Stadt",2021,63508.0
+09163,"Rosenheim, kreisfreie Stadt",2022,63641.0
+09163,"Rosenheim, kreisfreie Stadt",2023,64453.0
+09163,"Rosenheim, kreisfreie Stadt",2024,65274.0
+09171,"Altï¿½tting, Landkreis",2020,111654.0
+09171,"Altï¿½tting, Landkreis",2021,112116.0
+09171,"Altï¿½tting, Landkreis",2022,112296.0
+09171,"Altï¿½tting, Landkreis",2023,113018.0
+09171,"Altï¿½tting, Landkreis",2024,113938.0
+09172,"Berchtesgadener Land, Landkreis",2020,106327.0
+09172,"Berchtesgadener Land, Landkreis",2021,106389.0
+09172,"Berchtesgadener Land, Landkreis",2022,104372.0
+09172,"Berchtesgadener Land, Landkreis",2023,105108.0
+09172,"Berchtesgadener Land, Landkreis",2024,105292.0
+09173,"Bad Tï¿½lz-Wolfratshausen, Landkreis",2020,128212.0
+09173,"Bad Tï¿½lz-Wolfratshausen, Landkreis",2021,127919.0
+09173,"Bad Tï¿½lz-Wolfratshausen, Landkreis",2022,129062.0
+09173,"Bad Tï¿½lz-Wolfratshausen, Landkreis",2023,129787.0
+09173,"Bad Tï¿½lz-Wolfratshausen, Landkreis",2024,130248.0
+09174,"Dachau, Landkreis",2020,155117.0
+09174,"Dachau, Landkreis",2021,155449.0
+09174,"Dachau, Landkreis",2022,151041.0
+09174,"Dachau, Landkreis",2023,151925.0
+09174,"Dachau, Landkreis",2024,153595.0
+09175,"Ebersberg, Landkreis",2020,144091.0
+09175,"Ebersberg, Landkreis",2021,144562.0
+09175,"Ebersberg, Landkreis",2022,142205.0
+09175,"Ebersberg, Landkreis",2023,143011.0
+09175,"Ebersberg, Landkreis",2024,144225.0
+09176,"Eichstï¿½tt, Landkreis",2020,133169.0
+09176,"Eichstï¿½tt, Landkreis",2021,133634.0
+09176,"Eichstï¿½tt, Landkreis",2022,134201.0
+09176,"Eichstï¿½tt, Landkreis",2023,135220.0
+09176,"Eichstï¿½tt, Landkreis",2024,135668.0
+09177,"Erding, Landkreis",2020,138891.0
+09177,"Erding, Landkreis",2021,139622.0
+09177,"Erding, Landkreis",2022,138647.0
+09177,"Erding, Landkreis",2023,139547.0
+09177,"Erding, Landkreis",2024,140127.0
+09178,"Freising, Landkreis",2020,180313.0
+09178,"Freising, Landkreis",2021,181144.0
+09178,"Freising, Landkreis",2022,181568.0
+09178,"Freising, Landkreis",2023,183535.0
+09178,"Freising, Landkreis",2024,184564.0
+09179,"Fï¿½rstenfeldbruck, Landkreis",2020,218740.0
+09179,"Fï¿½rstenfeldbruck, Landkreis",2021,218579.0
+09179,"Fï¿½rstenfeldbruck, Landkreis",2022,215511.0
+09179,"Fï¿½rstenfeldbruck, Landkreis",2023,216912.0
+09179,"Fï¿½rstenfeldbruck, Landkreis",2024,218227.0
+09180,"Garmisch-Partenkirchen, Landkreis",2020,88279.0
+09180,"Garmisch-Partenkirchen, Landkreis",2021,88232.0
+09180,"Garmisch-Partenkirchen, Landkreis",2022,89224.0
+09180,"Garmisch-Partenkirchen, Landkreis",2023,89322.0
+09180,"Garmisch-Partenkirchen, Landkreis",2024,89296.0
+09181,"Landsberg am Lech, Landkreis",2020,121019.0
+09181,"Landsberg am Lech, Landkreis",2021,121466.0
+09181,"Landsberg am Lech, Landkreis",2022,119654.0
+09181,"Landsberg am Lech, Landkreis",2023,120966.0
+09181,"Landsberg am Lech, Landkreis",2024,122107.0
+09182,"Miesbach, Landkreis",2020,100183.0
+09182,"Miesbach, Landkreis",2021,99978.0
+09182,"Miesbach, Landkreis",2022,96557.0
+09182,"Miesbach, Landkreis",2023,96730.0
+09182,"Miesbach, Landkreis",2024,97152.0
+09183,"Mï¿½hldorf am Inn, Landkreis",2020,116483.0
+09183,"Mï¿½hldorf am Inn, Landkreis",2021,117606.0
+09183,"Mï¿½hldorf am Inn, Landkreis",2022,120317.0
+09183,"Mï¿½hldorf am Inn, Landkreis",2023,121263.0
+09183,"Mï¿½hldorf am Inn, Landkreis",2024,122037.0
+09184,"Mï¿½nchen, Landkreis",2020,349685.0
+09184,"Mï¿½nchen, Landkreis",2021,349837.0
+09184,"Mï¿½nchen, Landkreis",2022,350047.0
+09184,"Mï¿½nchen, Landkreis",2023,352771.0
+09184,"Mï¿½nchen, Landkreis",2024,354396.0
+09185,"Neuburg-Schrobenhausen, Landkreis",2020,97730.0
+09185,"Neuburg-Schrobenhausen, Landkreis",2021,98503.0
+09185,"Neuburg-Schrobenhausen, Landkreis",2022,97792.0
+09185,"Neuburg-Schrobenhausen, Landkreis",2023,98967.0
+09185,"Neuburg-Schrobenhausen, Landkreis",2024,99364.0
+09186,"Pfaffenhofen an der Ilm, Landkreis",2020,129128.0
+09186,"Pfaffenhofen an der Ilm, Landkreis",2021,129772.0
+09186,"Pfaffenhofen an der Ilm, Landkreis",2022,128537.0
+09186,"Pfaffenhofen an der Ilm, Landkreis",2023,129497.0
+09186,"Pfaffenhofen an der Ilm, Landkreis",2024,130781.0
+09187,"Rosenheim, Landkreis",2020,261721.0
+09187,"Rosenheim, Landkreis",2021,263367.0
+09187,"Rosenheim, Landkreis",2022,255306.0
+09187,"Rosenheim, Landkreis",2023,256815.0
+09187,"Rosenheim, Landkreis",2024,258637.0
+09188,"Starnberg, Landkreis",2020,136610.0
+09188,"Starnberg, Landkreis",2021,136747.0
+09188,"Starnberg, Landkreis",2022,138488.0
+09188,"Starnberg, Landkreis",2023,138926.0
+09188,"Starnberg, Landkreis",2024,139329.0
+09189,"Traunstein, Landkreis",2020,177485.0
+09189,"Traunstein, Landkreis",2021,178447.0
+09189,"Traunstein, Landkreis",2022,170984.0
+09189,"Traunstein, Landkreis",2023,172021.0
+09189,"Traunstein, Landkreis",2024,175144.0
+09190,"Weilheim-Schongau, Landkreis",2020,136134.0
+09190,"Weilheim-Schongau, Landkreis",2021,136642.0
+09190,"Weilheim-Schongau, Landkreis",2022,136811.0
+09190,"Weilheim-Schongau, Landkreis",2023,138052.0
+09190,"Weilheim-Schongau, Landkreis",2024,138957.0
+09261,"Landshut, kreisfreie Stadt",2020,73065.0
+09261,"Landshut, kreisfreie Stadt",2021,73150.0
+09261,"Landshut, kreisfreie Stadt",2022,68743.0
+09261,"Landshut, kreisfreie Stadt",2023,68741.0
+09261,"Landshut, kreisfreie Stadt",2024,71863.0
+09262,"Passau, kreisfreie Stadt",2020,52415.0
+09262,"Passau, kreisfreie Stadt",2021,53093.0
+09262,"Passau, kreisfreie Stadt",2022,52361.0
+09262,"Passau, kreisfreie Stadt",2023,52894.0
+09262,"Passau, kreisfreie Stadt",2024,53039.0
+09263,"Straubing, kreisfreie Stadt",2020,47612.0
+09263,"Straubing, kreisfreie Stadt",2021,47854.0
+09263,"Straubing, kreisfreie Stadt",2022,46953.0
+09263,"Straubing, kreisfreie Stadt",2023,47524.0
+09263,"Straubing, kreisfreie Stadt",2024,49002.0
+09271,"Deggendorf, Landkreis",2020,119479.0
+09271,"Deggendorf, Landkreis",2021,120521.0
+09271,"Deggendorf, Landkreis",2022,120091.0
+09271,"Deggendorf, Landkreis",2023,121137.0
+09271,"Deggendorf, Landkreis",2024,121844.0
+09272,"Freyung-Grafenau, Landkreis",2020,78355.0
+09272,"Freyung-Grafenau, Landkreis",2021,78632.0
+09272,"Freyung-Grafenau, Landkreis",2022,78155.0
+09272,"Freyung-Grafenau, Landkreis",2023,78512.0
+09272,"Freyung-Grafenau, Landkreis",2024,78710.0
+09273,"Kelheim, Landkreis",2020,123390.0
+09273,"Kelheim, Landkreis",2021,123899.0
+09273,"Kelheim, Landkreis",2022,124673.0
+09273,"Kelheim, Landkreis",2023,125597.0
+09273,"Kelheim, Landkreis",2024,126037.0
+09274,"Landshut, Landkreis",2020,161191.0
+09274,"Landshut, Landkreis",2021,162331.0
+09274,"Landshut, Landkreis",2022,160256.0
+09274,"Landshut, Landkreis",2023,161180.0
+09274,"Landshut, Landkreis",2024,162170.0
+09275,"Passau, Landkreis",2020,193454.0
+09275,"Passau, Landkreis",2021,194090.0
+09275,"Passau, Landkreis",2022,193080.0
+09275,"Passau, Landkreis",2023,194068.0
+09275,"Passau, Landkreis",2024,194699.0
+09276,"Regen, Landkreis",2020,77313.0
+09276,"Regen, Landkreis",2021,77176.0
+09276,"Regen, Landkreis",2022,77503.0
+09276,"Regen, Landkreis",2023,77439.0
+09276,"Regen, Landkreis",2024,77267.0
+09277,"Rottal-Inn, Landkreis",2020,121800.0
+09277,"Rottal-Inn, Landkreis",2021,122252.0
+09277,"Rottal-Inn, Landkreis",2022,119864.0
+09277,"Rottal-Inn, Landkreis",2023,120475.0
+09277,"Rottal-Inn, Landkreis",2024,120497.0
+09278,"Straubing-Bogen, Landkreis",2020,101745.0
+09278,"Straubing-Bogen, Landkreis",2021,102398.0
+09278,"Straubing-Bogen, Landkreis",2022,102914.0
+09278,"Straubing-Bogen, Landkreis",2023,103329.0
+09278,"Straubing-Bogen, Landkreis",2024,103041.0
+09279,"Dingolfing-Landau, Landkreis",2020,97244.0
+09279,"Dingolfing-Landau, Landkreis",2021,98045.0
+09279,"Dingolfing-Landau, Landkreis",2022,99509.0
+09279,"Dingolfing-Landau, Landkreis",2023,100727.0
+09279,"Dingolfing-Landau, Landkreis",2024,101035.0
+09361,"Amberg, kreisfreie Stadt",2020,42052.0
+09361,"Amberg, kreisfreie Stadt",2021,41994.0
+09361,"Amberg, kreisfreie Stadt",2022,42080.0
+09361,"Amberg, kreisfreie Stadt",2023,42217.0
+09361,"Amberg, kreisfreie Stadt",2024,42553.0
+09362,"Regensburg, kreisfreie Stadt",2020,152270.0
+09362,"Regensburg, kreisfreie Stadt",2021,153542.0
+09362,"Regensburg, kreisfreie Stadt",2022,147509.0
+09362,"Regensburg, kreisfreie Stadt",2023,149664.0
+09362,"Regensburg, kreisfreie Stadt",2024,151389.0
+09363,"Weiden in der Oberpfalz, kreisfreie Stadt",2020,42535.0
+09363,"Weiden in der Oberpfalz, kreisfreie Stadt",2021,42472.0
+09363,"Weiden in der Oberpfalz, kreisfreie Stadt",2022,42251.0
+09363,"Weiden in der Oberpfalz, kreisfreie Stadt",2023,42430.0
+09363,"Weiden in der Oberpfalz, kreisfreie Stadt",2024,42444.0
+09371,"Amberg-Sulzbach, Landkreis",2020,102998.0
+09371,"Amberg-Sulzbach, Landkreis",2021,103277.0
+09371,"Amberg-Sulzbach, Landkreis",2022,103621.0
+09371,"Amberg-Sulzbach, Landkreis",2023,104127.0
+09371,"Amberg-Sulzbach, Landkreis",2024,103982.0
+09372,"Cham, Landkreis",2020,128094.0
+09372,"Cham, Landkreis",2021,128444.0
+09372,"Cham, Landkreis",2022,127452.0
+09372,"Cham, Landkreis",2023,128230.0
+09372,"Cham, Landkreis",2024,128534.0
+09373,"Neumarkt in der Oberpfalz, Landkreis",2020,135225.0
+09373,"Neumarkt in der Oberpfalz, Landkreis",2021,136062.0
+09373,"Neumarkt in der Oberpfalz, Landkreis",2022,136901.0
+09373,"Neumarkt in der Oberpfalz, Landkreis",2023,138214.0
+09373,"Neumarkt in der Oberpfalz, Landkreis",2024,138693.0
+09374,"Neustadt an der Waldnaab, Landkreis",2020,94645.0
+09374,"Neustadt an der Waldnaab, Landkreis",2021,94838.0
+09374,"Neustadt an der Waldnaab, Landkreis",2022,95742.0
+09374,"Neustadt an der Waldnaab, Landkreis",2023,96209.0
+09374,"Neustadt an der Waldnaab, Landkreis",2024,96049.0
+09375,"Regensburg, Landkreis",2020,194275.0
+09375,"Regensburg, Landkreis",2021,195225.0
+09375,"Regensburg, Landkreis",2022,191651.0
+09375,"Regensburg, Landkreis",2023,193801.0
+09375,"Regensburg, Landkreis",2024,196213.0
+09376,"Schwandorf, Landkreis",2020,148477.0
+09376,"Schwandorf, Landkreis",2021,149239.0
+09376,"Schwandorf, Landkreis",2022,147982.0
+09376,"Schwandorf, Landkreis",2023,148698.0
+09376,"Schwandorf, Landkreis",2024,149312.0
+09377,"Tirschenreuth, Landkreis",2020,71696.0
+09377,"Tirschenreuth, Landkreis",2021,71648.0
+09377,"Tirschenreuth, Landkreis",2022,72561.0
+09377,"Tirschenreuth, Landkreis",2023,72545.0
+09377,"Tirschenreuth, Landkreis",2024,72210.0
+09461,"Bamberg, kreisfreie Stadt",2020,76674.0
+09461,"Bamberg, kreisfreie Stadt",2021,77749.0
+09461,"Bamberg, kreisfreie Stadt",2022,74405.0
+09461,"Bamberg, kreisfreie Stadt",2023,75087.0
+09461,"Bamberg, kreisfreie Stadt",2024,77150.0
+09462,"Bayreuth, kreisfreie Stadt",2020,74048.0
+09462,"Bayreuth, kreisfreie Stadt",2021,73909.0
+09462,"Bayreuth, kreisfreie Stadt",2022,72661.0
+09462,"Bayreuth, kreisfreie Stadt",2023,73074.0
+09462,"Bayreuth, kreisfreie Stadt",2024,72940.0
+09463,"Coburg, kreisfreie Stadt",2020,40842.0
+09463,"Coburg, kreisfreie Stadt",2021,40955.0
+09463,"Coburg, kreisfreie Stadt",2022,40618.0
+09463,"Coburg, kreisfreie Stadt",2023,40907.0
+09463,"Coburg, kreisfreie Stadt",2024,41064.0
+09464,"Hof, kreisfreie Stadt",2020,45173.0
+09464,"Hof, kreisfreie Stadt",2021,45125.0
+09464,"Hof, kreisfreie Stadt",2022,46151.0
+09464,"Hof, kreisfreie Stadt",2023,46484.0
+09464,"Hof, kreisfreie Stadt",2024,46778.0
+09471,"Bamberg, Landkreis",2020,147497.0
+09471,"Bamberg, Landkreis",2021,147697.0
+09471,"Bamberg, Landkreis",2022,147269.0
+09471,"Bamberg, Landkreis",2023,148017.0
+09471,"Bamberg, Landkreis",2024,147777.0
+09472,"Bayreuth, Landkreis",2020,103679.0
+09472,"Bayreuth, Landkreis",2021,103648.0
+09472,"Bayreuth, Landkreis",2022,103106.0
+09472,"Bayreuth, Landkreis",2023,103269.0
+09472,"Bayreuth, Landkreis",2024,103215.0
+09473,"Coburg, Landkreis",2020,86571.0
+09473,"Coburg, Landkreis",2021,86544.0
+09473,"Coburg, Landkreis",2022,84341.0
+09473,"Coburg, Landkreis",2023,84518.0
+09473,"Coburg, Landkreis",2024,84468.0
+09474,"Forchheim, Landkreis",2020,116600.0
+09474,"Forchheim, Landkreis",2021,116753.0
+09474,"Forchheim, Landkreis",2022,115457.0
+09474,"Forchheim, Landkreis",2023,116284.0
+09474,"Forchheim, Landkreis",2024,116184.0
+09475,"Hof, Landkreis",2020,94522.0
+09475,"Hof, Landkreis",2021,93907.0
+09475,"Hof, Landkreis",2022,92905.0
+09475,"Hof, Landkreis",2023,92675.0
+09475,"Hof, Landkreis",2024,92191.0
+09476,"Kronach, Landkreis",2020,66355.0
+09476,"Kronach, Landkreis",2021,66091.0
+09476,"Kronach, Landkreis",2022,65087.0
+09476,"Kronach, Landkreis",2023,65009.0
+09476,"Kronach, Landkreis",2024,64545.0
+09477,"Kulmbach, Landkreis",2020,71428.0
+09477,"Kulmbach, Landkreis",2021,71328.0
+09477,"Kulmbach, Landkreis",2022,71439.0
+09477,"Kulmbach, Landkreis",2023,71752.0
+09477,"Kulmbach, Landkreis",2024,71518.0
+09478,"Lichtenfels, Landkreis",2020,66722.0
+09478,"Lichtenfels, Landkreis",2021,66741.0
+09478,"Lichtenfels, Landkreis",2022,67466.0
+09478,"Lichtenfels, Landkreis",2023,67716.0
+09478,"Lichtenfels, Landkreis",2024,67379.0
+09479,"Wunsiedel im Fichtelgebirge, Landkreis",2020,71974.0
+09479,"Wunsiedel im Fichtelgebirge, Landkreis",2021,71482.0
+09479,"Wunsiedel im Fichtelgebirge, Landkreis",2022,70963.0
+09479,"Wunsiedel im Fichtelgebirge, Landkreis",2023,70959.0
+09479,"Wunsiedel im Fichtelgebirge, Landkreis",2024,70549.0
+09561,"Ansbach, kreisfreie Stadt",2020,41681.0
+09561,"Ansbach, kreisfreie Stadt",2021,41662.0
+09561,"Ansbach, kreisfreie Stadt",2022,39596.0
+09561,"Ansbach, kreisfreie Stadt",2023,39700.0
+09561,"Ansbach, kreisfreie Stadt",2024,40742.0
+09562,"Erlangen, kreisfreie Stadt",2020,112385.0
+09562,"Erlangen, kreisfreie Stadt",2021,113292.0
+09562,"Erlangen, kreisfreie Stadt",2022,113911.0
+09562,"Erlangen, kreisfreie Stadt",2023,115314.0
+09562,"Erlangen, kreisfreie Stadt",2024,115928.0
+09563,"Fï¿½rth, kreisfreie Stadt",2020,128223.0
+09563,"Fï¿½rth, kreisfreie Stadt",2021,129122.0
+09563,"Fï¿½rth, kreisfreie Stadt",2022,131060.0
+09563,"Fï¿½rth, kreisfreie Stadt",2023,131712.0
+09563,"Fï¿½rth, kreisfreie Stadt",2024,132036.0
+09564,"Nï¿½rnberg, kreisfreie Stadt",2020,515543.0
+09564,"Nï¿½rnberg, kreisfreie Stadt",2021,510632.0
+09564,"Nï¿½rnberg, kreisfreie Stadt",2022,523734.0
+09564,"Nï¿½rnberg, kreisfreie Stadt",2023,526606.0
+09564,"Nï¿½rnberg, kreisfreie Stadt",2024,529508.0
+09565,"Schwabach, kreisfreie Stadt",2020,41056.0
+09565,"Schwabach, kreisfreie Stadt",2021,41146.0
+09565,"Schwabach, kreisfreie Stadt",2022,40812.0
+09565,"Schwabach, kreisfreie Stadt",2023,40994.0
+09565,"Schwabach, kreisfreie Stadt",2024,40835.0
+09571,"Ansbach, Landkreis",2020,185316.0
+09571,"Ansbach, Landkreis",2021,186279.0
+09571,"Ansbach, Landkreis",2022,186359.0
+09571,"Ansbach, Landkreis",2023,187340.0
+09571,"Ansbach, Landkreis",2024,187633.0
+09572,"Erlangen-Hï¿½chstadt, Landkreis",2020,138105.0
+09572,"Erlangen-Hï¿½chstadt, Landkreis",2021,139323.0
+09572,"Erlangen-Hï¿½chstadt, Landkreis",2022,137981.0
+09572,"Erlangen-Hï¿½chstadt, Landkreis",2023,138581.0
+09572,"Erlangen-Hï¿½chstadt, Landkreis",2024,138325.0
+09573,"Fï¿½rth, Landkreis",2020,118695.0
+09573,"Fï¿½rth, Landkreis",2021,119432.0
+09573,"Fï¿½rth, Landkreis",2022,117602.0
+09573,"Fï¿½rth, Landkreis",2023,117617.0
+09573,"Fï¿½rth, Landkreis",2024,117719.0
+09574,"Nï¿½rnberger Land, Landkreis",2020,171143.0
+09574,"Nï¿½rnberger Land, Landkreis",2021,171424.0
+09574,"Nï¿½rnberger Land, Landkreis",2022,168856.0
+09574,"Nï¿½rnberger Land, Landkreis",2023,169193.0
+09574,"Nï¿½rnberger Land, Landkreis",2024,168813.0
+09575,"Neustadt an der Aisch-Bad Windsheim, Landkreis",2020,101272.0
+09575,"Neustadt an der Aisch-Bad Windsheim, Landkreis",2021,101788.0
+09575,"Neustadt an der Aisch-Bad Windsheim, Landkreis",2022,100568.0
+09575,"Neustadt an der Aisch-Bad Windsheim, Landkreis",2023,100982.0
+09575,"Neustadt an der Aisch-Bad Windsheim, Landkreis",2024,101043.0
+09576,"Roth, Landkreis",2020,127168.0
+09576,"Roth, Landkreis",2021,127520.0
+09576,"Roth, Landkreis",2022,127472.0
+09576,"Roth, Landkreis",2023,128438.0
+09576,"Roth, Landkreis",2024,128632.0
+09577,"Weiï¿½enburg-Gunzenhausen, Landkreis",2020,95117.0
+09577,"Weiï¿½enburg-Gunzenhausen, Landkreis",2021,95523.0
+09577,"Weiï¿½enburg-Gunzenhausen, Landkreis",2022,94468.0
+09577,"Weiï¿½enburg-Gunzenhausen, Landkreis",2023,94670.0
+09577,"Weiï¿½enburg-Gunzenhausen, Landkreis",2024,94695.0
+09661,"Aschaffenburg, kreisfreie Stadt",2020,70858.0
+09661,"Aschaffenburg, kreisfreie Stadt",2021,71381.0
+09661,"Aschaffenburg, kreisfreie Stadt",2022,72054.0
+09661,"Aschaffenburg, kreisfreie Stadt",2023,72554.0
+09661,"Aschaffenburg, kreisfreie Stadt",2024,73091.0
+09662,"Schweinfurt, kreisfreie Stadt",2020,53319.0
+09662,"Schweinfurt, kreisfreie Stadt",2021,53585.0
+09662,"Schweinfurt, kreisfreie Stadt",2022,53539.0
+09662,"Schweinfurt, kreisfreie Stadt",2023,53938.0
+09662,"Schweinfurt, kreisfreie Stadt",2024,54481.0
+09663,"Wï¿½rzburg, kreisfreie Stadt",2020,126954.0
+09663,"Wï¿½rzburg, kreisfreie Stadt",2021,126933.0
+09663,"Wï¿½rzburg, kreisfreie Stadt",2022,131271.0
+09663,"Wï¿½rzburg, kreisfreie Stadt",2023,131759.0
+09663,"Wï¿½rzburg, kreisfreie Stadt",2024,133258.0
+09671,"Aschaffenburg, Landkreis",2020,174658.0
+09671,"Aschaffenburg, Landkreis",2021,174965.0
+09671,"Aschaffenburg, Landkreis",2022,170651.0
+09671,"Aschaffenburg, Landkreis",2023,170856.0
+09671,"Aschaffenburg, Landkreis",2024,170945.0
+09672,"Bad Kissingen, Landkreis",2020,103169.0
+09672,"Bad Kissingen, Landkreis",2021,103454.0
+09672,"Bad Kissingen, Landkreis",2022,103088.0
+09672,"Bad Kissingen, Landkreis",2023,103447.0
+09672,"Bad Kissingen, Landkreis",2024,103489.0
+09673,"Rhï¿½n-Grabfeld, Landkreis",2020,79510.0
+09673,"Rhï¿½n-Grabfeld, Landkreis",2021,79376.0
+09673,"Rhï¿½n-Grabfeld, Landkreis",2022,79216.0
+09673,"Rhï¿½n-Grabfeld, Landkreis",2023,79430.0
+09673,"Rhï¿½n-Grabfeld, Landkreis",2024,79375.0
+09674,"Haï¿½berge, Landkreis",2020,84275.0
+09674,"Haï¿½berge, Landkreis",2021,84284.0
+09674,"Haï¿½berge, Landkreis",2022,83258.0
+09674,"Haï¿½berge, Landkreis",2023,83673.0
+09674,"Haï¿½berge, Landkreis",2024,83869.0
+09675,"Kitzingen, Landkreis",2020,91696.0
+09675,"Kitzingen, Landkreis",2021,91980.0
+09675,"Kitzingen, Landkreis",2022,90576.0
+09675,"Kitzingen, Landkreis",2023,91197.0
+09675,"Kitzingen, Landkreis",2024,91287.0
+09676,"Miltenberg, Landkreis",2020,128743.0
+09676,"Miltenberg, Landkreis",2021,128782.0
+09676,"Miltenberg, Landkreis",2022,126649.0
+09676,"Miltenberg, Landkreis",2023,127204.0
+09676,"Miltenberg, Landkreis",2024,127547.0
+09677,"Main-Spessart, Landkreis",2020,125976.0
+09677,"Main-Spessart, Landkreis",2021,126105.0
+09677,"Main-Spessart, Landkreis",2022,125270.0
+09677,"Main-Spessart, Landkreis",2023,125814.0
+09677,"Main-Spessart, Landkreis",2024,125282.0
+09678,"Schweinfurt, Landkreis",2020,115652.0
+09678,"Schweinfurt, Landkreis",2021,116134.0
+09678,"Schweinfurt, Landkreis",2022,114749.0
+09678,"Schweinfurt, Landkreis",2023,114404.0
+09678,"Schweinfurt, Landkreis",2024,113977.0
+09679,"Wï¿½rzburg, Landkreis",2020,162697.0
+09679,"Wï¿½rzburg, Landkreis",2021,163534.0
+09679,"Wï¿½rzburg, Landkreis",2022,160240.0
+09679,"Wï¿½rzburg, Landkreis",2023,160879.0
+09679,"Wï¿½rzburg, Landkreis",2024,162216.0
+09761,"Augsburg, kreisfreie Stadt",2020,295830.0
+09761,"Augsburg, kreisfreie Stadt",2021,296478.0
+09761,"Augsburg, kreisfreie Stadt",2022,296706.0
+09761,"Augsburg, kreisfreie Stadt",2023,298972.0
+09761,"Augsburg, kreisfreie Stadt",2024,301105.0
+09762,"Kaufbeuren, kreisfreie Stadt",2020,44662.0
+09762,"Kaufbeuren, kreisfreie Stadt",2021,45118.0
+09762,"Kaufbeuren, kreisfreie Stadt",2022,45459.0
+09762,"Kaufbeuren, kreisfreie Stadt",2023,46071.0
+09762,"Kaufbeuren, kreisfreie Stadt",2024,46193.0
+09763,"Kempten (Allgï¿½u), kreisfreie Stadt",2020,68940.0
+09763,"Kempten (Allgï¿½u), kreisfreie Stadt",2021,69053.0
+09763,"Kempten (Allgï¿½u), kreisfreie Stadt",2022,65229.0
+09763,"Kempten (Allgï¿½u), kreisfreie Stadt",2023,65933.0
+09763,"Kempten (Allgï¿½u), kreisfreie Stadt",2024,67645.0
+09764,"Memmingen, kreisfreie Stadt",2020,44360.0
+09764,"Memmingen, kreisfreie Stadt",2021,44721.0
+09764,"Memmingen, kreisfreie Stadt",2022,43696.0
+09764,"Memmingen, kreisfreie Stadt",2023,44048.0
+09764,"Memmingen, kreisfreie Stadt",2024,44192.0
+09771,"Aichach-Friedberg, Landkreis",2020,135024.0
+09771,"Aichach-Friedberg, Landkreis",2021,135538.0
+09771,"Aichach-Friedberg, Landkreis",2022,135133.0
+09771,"Aichach-Friedberg, Landkreis",2023,136430.0
+09771,"Aichach-Friedberg, Landkreis",2024,136803.0
+09772,"Augsburg, Landkreis",2020,255900.0
+09772,"Augsburg, Landkreis",2021,257790.0
+09772,"Augsburg, Landkreis",2022,259302.0
+09772,"Augsburg, Landkreis",2023,261600.0
+09772,"Augsburg, Landkreis",2024,262811.0
+09773,"Dillingen an der Donau, Landkreis",2020,97172.0
+09773,"Dillingen an der Donau, Landkreis",2021,97985.0
+09773,"Dillingen an der Donau, Landkreis",2022,97430.0
+09773,"Dillingen an der Donau, Landkreis",2023,98474.0
+09773,"Dillingen an der Donau, Landkreis",2024,98899.0
+09774,"Gï¿½nzburg, Landkreis",2020,127342.0
+09774,"Gï¿½nzburg, Landkreis",2021,128436.0
+09774,"Gï¿½nzburg, Landkreis",2022,128361.0
+09774,"Gï¿½nzburg, Landkreis",2023,129696.0
+09774,"Gï¿½nzburg, Landkreis",2024,129846.0
+09775,"Neu-Ulm, Landkreis",2020,175823.0
+09775,"Neu-Ulm, Landkreis",2021,177330.0
+09775,"Neu-Ulm, Landkreis",2022,180320.0
+09775,"Neu-Ulm, Landkreis",2023,182560.0
+09775,"Neu-Ulm, Landkreis",2024,183595.0
+09776,"Lindau (Bodensee), Landkreis",2020,82085.0
+09776,"Lindau (Bodensee), Landkreis",2021,82330.0
+09776,"Lindau (Bodensee), Landkreis",2022,81874.0
+09776,"Lindau (Bodensee), Landkreis",2023,82224.0
+09776,"Lindau (Bodensee), Landkreis",2024,82411.0
+09777,"Ostallgï¿½u, Landkreis",2020,141907.0
+09777,"Ostallgï¿½u, Landkreis",2021,143236.0
+09777,"Ostallgï¿½u, Landkreis",2022,140153.0
+09777,"Ostallgï¿½u, Landkreis",2023,141137.0
+09777,"Ostallgï¿½u, Landkreis",2024,142047.0
+09778,"Unterallgï¿½u, Landkreis",2020,146164.0
+09778,"Unterallgï¿½u, Landkreis",2021,147776.0
+09778,"Unterallgï¿½u, Landkreis",2022,143384.0
+09778,"Unterallgï¿½u, Landkreis",2023,145298.0
+09778,"Unterallgï¿½u, Landkreis",2024,147255.0
+09779,"Donau-Ries, Landkreis",2020,134324.0
+09779,"Donau-Ries, Landkreis",2021,134986.0
+09779,"Donau-Ries, Landkreis",2022,133770.0
+09779,"Donau-Ries, Landkreis",2023,134677.0
+09779,"Donau-Ries, Landkreis",2024,135098.0
+09780,"Oberallgï¿½u, Landkreis",2020,156308.0
+09780,"Oberallgï¿½u, Landkreis",2021,157202.0
+09780,"Oberallgï¿½u, Landkreis",2022,152664.0
+09780,"Oberallgï¿½u, Landkreis",2023,153394.0
+09780,"Oberallgï¿½u, Landkreis",2024,155413.0
+10041,"Regionalverband Saarbrï¿½cken, Landkreis",2020,327502.0
+10041,"Regionalverband Saarbrï¿½cken, Landkreis",2021,327284.0
+10041,"Regionalverband Saarbrï¿½cken, Landkreis",2022,330672.0
+10041,"Regionalverband Saarbrï¿½cken, Landkreis",2023,332416.0
+10041,"Regionalverband Saarbrï¿½cken, Landkreis",2024,333149.0
+10042,"Merzig-Wadern, Landkreis",2020,103471.0
+10042,"Merzig-Wadern, Landkreis",2021,103426.0
+10042,"Merzig-Wadern, Landkreis",2022,109393.0
+10042,"Merzig-Wadern, Landkreis",2023,109336.0
+10042,"Merzig-Wadern, Landkreis",2024,108779.0
+10043,"Neunkirchen, Landkreis",2020,131172.0
+10043,"Neunkirchen, Landkreis",2021,130847.0
+10043,"Neunkirchen, Landkreis",2022,133544.0
+10043,"Neunkirchen, Landkreis",2023,133667.0
+10043,"Neunkirchen, Landkreis",2024,133179.0
+10044,"Saarlouis, Landkreis",2020,193732.0
+10044,"Saarlouis, Landkreis",2021,193661.0
+10044,"Saarlouis, Landkreis",2022,205785.0
+10044,"Saarlouis, Landkreis",2023,206094.0
+10044,"Saarlouis, Landkreis",2024,205129.0
+10045,Saarpfalz-Kreis,2020,141656.0
+10045,Saarpfalz-Kreis,2021,140960.0
+10045,Saarpfalz-Kreis,2022,144492.0
+10045,Saarpfalz-Kreis,2023,144478.0
+10045,Saarpfalz-Kreis,2024,144092.0
+10046,"Sankt Wendel, Landkreis",2020,86458.0
+10046,"Sankt Wendel, Landkreis",2021,86170.0
+10046,"Sankt Wendel, Landkreis",2022,88005.0
+10046,"Sankt Wendel, Landkreis",2023,88056.0
+10046,"Sankt Wendel, Landkreis",2024,87813.0
+11000,"Berlin, kreisfreie Stadt",2020,3664088.0
+11000,"Berlin, kreisfreie Stadt",2021,3677472.0
+11000,"Berlin, kreisfreie Stadt",2022,3632853.0
+11000,"Berlin, kreisfreie Stadt",2023,3662381.0
+11000,"Berlin, kreisfreie Stadt",2024,3685265.0
+12051,"Brandenburg an der Havel, kreisfreie Stadt",2020,72040.0
+12051,"Brandenburg an der Havel, kreisfreie Stadt",2021,72461.0
+12051,"Brandenburg an der Havel, kreisfreie Stadt",2022,73612.0
+12051,"Brandenburg an der Havel, kreisfreie Stadt",2023,73939.0
+12051,"Brandenburg an der Havel, kreisfreie Stadt",2024,74113.0
+12052,"Cottbus, kreisfreie Stadt",2020,98693.0
+12052,"Cottbus, kreisfreie Stadt",2021,98359.0
+12052,"Cottbus, kreisfreie Stadt",2022,94250.0
+12052,"Cottbus, kreisfreie Stadt",2023,94778.0
+12052,"Cottbus, kreisfreie Stadt",2024,95123.0
+12053,"Frankfurt (Oder), kreisfreie Stadt",2020,57015.0
+12053,"Frankfurt (Oder), kreisfreie Stadt",2021,56679.0
+12053,"Frankfurt (Oder), kreisfreie Stadt",2022,56434.0
+12053,"Frankfurt (Oder), kreisfreie Stadt",2023,57065.0
+12053,"Frankfurt (Oder), kreisfreie Stadt",2024,57107.0
+12054,"Potsdam, kreisfreie Stadt",2020,182112.0
+12054,"Potsdam, kreisfreie Stadt",2021,183154.0
+12054,"Potsdam, kreisfreie Stadt",2022,182987.0
+12054,"Potsdam, kreisfreie Stadt",2023,184290.0
+12054,"Potsdam, kreisfreie Stadt",2024,184754.0
+12060,"Barnim, Landkreis",2020,187343.0
+12060,"Barnim, Landkreis",2021,188835.0
+12060,"Barnim, Landkreis",2022,191525.0
+12060,"Barnim, Landkreis",2023,192776.0
+12060,"Barnim, Landkreis",2024,194169.0
+12061,"Dahme-Spreewald, Landkreis",2020,173316.0
+12061,"Dahme-Spreewald, Landkreis",2021,175834.0
+12061,"Dahme-Spreewald, Landkreis",2022,176373.0
+12061,"Dahme-Spreewald, Landkreis",2023,177662.0
+12061,"Dahme-Spreewald, Landkreis",2024,178793.0
+12062,"Elbe-Elster, Landkreis",2020,101085.0
+12062,"Elbe-Elster, Landkreis",2021,100317.0
+12062,"Elbe-Elster, Landkreis",2022,99684.0
+12062,"Elbe-Elster, Landkreis",2023,98750.0
+12062,"Elbe-Elster, Landkreis",2024,97967.0
+12063,"Havelland, Landkreis",2020,164693.0
+12063,"Havelland, Landkreis",2021,165906.0
+12063,"Havelland, Landkreis",2022,168494.0
+12063,"Havelland, Landkreis",2023,169721.0
+12063,"Havelland, Landkreis",2024,170834.0
+12064,"Mï¿½rkisch-Oderland, Landkreis",2020,197195.0
+12064,"Mï¿½rkisch-Oderland, Landkreis",2021,197965.0
+12064,"Mï¿½rkisch-Oderland, Landkreis",2022,196930.0
+12064,"Mï¿½rkisch-Oderland, Landkreis",2023,197785.0
+12064,"Mï¿½rkisch-Oderland, Landkreis",2024,197817.0
+12065,"Oberhavel, Landkreis",2020,214234.0
+12065,"Oberhavel, Landkreis",2021,215795.0
+12065,"Oberhavel, Landkreis",2022,216849.0
+12065,"Oberhavel, Landkreis",2023,217290.0
+12065,"Oberhavel, Landkreis",2024,217690.0
+12066,"Oberspreewald-Lausitz, Landkreis",2020,108396.0
+12066,"Oberspreewald-Lausitz, Landkreis",2021,107558.0
+12066,"Oberspreewald-Lausitz, Landkreis",2022,109091.0
+12066,"Oberspreewald-Lausitz, Landkreis",2023,108434.0
+12066,"Oberspreewald-Lausitz, Landkreis",2024,107793.0
+12067,"Oder-Spree, Landkreis",2020,179276.0
+12067,"Oder-Spree, Landkreis",2021,179245.0
+12067,"Oder-Spree, Landkreis",2022,179748.0
+12067,"Oder-Spree, Landkreis",2023,180499.0
+12067,"Oder-Spree, Landkreis",2024,179817.0
+12068,"Ostprignitz-Ruppin, Landkreis",2020,98808.0
+12068,"Ostprignitz-Ruppin, Landkreis",2021,98829.0
+12068,"Ostprignitz-Ruppin, Landkreis",2022,99294.0
+12068,"Ostprignitz-Ruppin, Landkreis",2023,99372.0
+12068,"Ostprignitz-Ruppin, Landkreis",2024,99152.0
+12069,"Potsdam-Mittelmark, Landkreis",2020,217954.0
+12069,"Potsdam-Mittelmark, Landkreis",2021,219521.0
+12069,"Potsdam-Mittelmark, Landkreis",2022,219092.0
+12069,"Potsdam-Mittelmark, Landkreis",2023,220158.0
+12069,"Potsdam-Mittelmark, Landkreis",2024,221268.0
+12070,"Prignitz, Landkreis",2020,76096.0
+12070,"Prignitz, Landkreis",2021,75574.0
+12070,"Prignitz, Landkreis",2022,76322.0
+12070,"Prignitz, Landkreis",2023,76148.0
+12070,"Prignitz, Landkreis",2024,75595.0
+12071,"Spree-Neiï¿½e, Landkreis",2020,113011.0
+12071,"Spree-Neiï¿½e, Landkreis",2021,111955.0
+12071,"Spree-Neiï¿½e, Landkreis",2022,111083.0
+12071,"Spree-Neiï¿½e, Landkreis",2023,110580.0
+12071,"Spree-Neiï¿½e, Landkreis",2024,109635.0
+12072,"Teltow-Flï¿½ming, Landkreis",2020,171554.0
+12072,"Teltow-Flï¿½ming, Landkreis",2021,172545.0
+12072,"Teltow-Flï¿½ming, Landkreis",2022,175569.0
+12072,"Teltow-Flï¿½ming, Landkreis",2023,177420.0
+12072,"Teltow-Flï¿½ming, Landkreis",2024,177688.0
+12073,"Uckermark, Landkreis",2020,118250.0
+12073,"Uckermark, Landkreis",2021,117336.0
+12073,"Uckermark, Landkreis",2022,117822.0
+12073,"Uckermark, Landkreis",2023,117797.0
+12073,"Uckermark, Landkreis",2024,117432.0
+13001,"Greifswald, kreisfreie Stadt (bis 03.09.2011)",2020,
+13001,"Greifswald, kreisfreie Stadt (bis 03.09.2011)",2021,
+13001,"Greifswald, kreisfreie Stadt (bis 03.09.2011)",2022,
+13001,"Greifswald, kreisfreie Stadt (bis 03.09.2011)",2023,
+13001,"Greifswald, kreisfreie Stadt (bis 03.09.2011)",2024,
+13002,"Neubrandenburg, kreisfreie Stadt (bis 03.09.2011)",2020,
+13002,"Neubrandenburg, kreisfreie Stadt (bis 03.09.2011)",2021,
+13002,"Neubrandenburg, kreisfreie Stadt (bis 03.09.2011)",2022,
+13002,"Neubrandenburg, kreisfreie Stadt (bis 03.09.2011)",2023,
+13002,"Neubrandenburg, kreisfreie Stadt (bis 03.09.2011)",2024,
+13003,"Rostock, kreisfreie Stadt",2020,209061.0
+13003,"Rostock, kreisfreie Stadt",2021,208400.0
+13003,"Rostock, kreisfreie Stadt",2022,203909.0
+13003,"Rostock, kreisfreie Stadt",2023,204948.0
+13003,"Rostock, kreisfreie Stadt",2024,205307.0
+13004,"Schwerin, kreisfreie Stadt",2020,95609.0
+13004,"Schwerin, kreisfreie Stadt",2021,95740.0
+13004,"Schwerin, kreisfreie Stadt",2022,97614.0
+13004,"Schwerin, kreisfreie Stadt",2023,97850.0
+13004,"Schwerin, kreisfreie Stadt",2024,98308.0
+13005,"Stralsund, kreisfreie Stadt (bis 03.09.2011)",2020,
+13005,"Stralsund, kreisfreie Stadt (bis 03.09.2011)",2021,
+13005,"Stralsund, kreisfreie Stadt (bis 03.09.2011)",2022,
+13005,"Stralsund, kreisfreie Stadt (bis 03.09.2011)",2023,
+13005,"Stralsund, kreisfreie Stadt (bis 03.09.2011)",2024,
+13006,"Wismar, kreisfreie Stadt (bis 03.09.2011)",2020,
+13006,"Wismar, kreisfreie Stadt (bis 03.09.2011)",2021,
+13006,"Wismar, kreisfreie Stadt (bis 03.09.2011)",2022,
+13006,"Wismar, kreisfreie Stadt (bis 03.09.2011)",2023,
+13006,"Wismar, kreisfreie Stadt (bis 03.09.2011)",2024,
+13051,"Bad Doberan, Landkreis (bis 03.09.2011)",2020,
+13051,"Bad Doberan, Landkreis (bis 03.09.2011)",2021,
+13051,"Bad Doberan, Landkreis (bis 03.09.2011)",2022,
+13051,"Bad Doberan, Landkreis (bis 03.09.2011)",2023,
+13051,"Bad Doberan, Landkreis (bis 03.09.2011)",2024,
+13052,"Demmin, Landkreis (bis 03.09.2011)",2020,
+13052,"Demmin, Landkreis (bis 03.09.2011)",2021,
+13052,"Demmin, Landkreis (bis 03.09.2011)",2022,
+13052,"Demmin, Landkreis (bis 03.09.2011)",2023,
+13052,"Demmin, Landkreis (bis 03.09.2011)",2024,
+13053,"Gï¿½strow, Landkreis (bis 03.09.2011)",2020,
+13053,"Gï¿½strow, Landkreis (bis 03.09.2011)",2021,
+13053,"Gï¿½strow, Landkreis (bis 03.09.2011)",2022,
+13053,"Gï¿½strow, Landkreis (bis 03.09.2011)",2023,
+13053,"Gï¿½strow, Landkreis (bis 03.09.2011)",2024,
+13054,"Ludwigslust, Landkreis (bis 03.09.2011)",2020,
+13054,"Ludwigslust, Landkreis (bis 03.09.2011)",2021,
+13054,"Ludwigslust, Landkreis (bis 03.09.2011)",2022,
+13054,"Ludwigslust, Landkreis (bis 03.09.2011)",2023,
+13054,"Ludwigslust, Landkreis (bis 03.09.2011)",2024,
+13055,"Mecklenburg-Strelitz, Landkreis (bis 03.09.2011)",2020,
+13055,"Mecklenburg-Strelitz, Landkreis (bis 03.09.2011)",2021,
+13055,"Mecklenburg-Strelitz, Landkreis (bis 03.09.2011)",2022,
+13055,"Mecklenburg-Strelitz, Landkreis (bis 03.09.2011)",2023,
+13055,"Mecklenburg-Strelitz, Landkreis (bis 03.09.2011)",2024,
+13056,"Mï¿½ritz, Landkreis (bis 03.09.2011)",2020,
+13056,"Mï¿½ritz, Landkreis (bis 03.09.2011)",2021,
+13056,"Mï¿½ritz, Landkreis (bis 03.09.2011)",2022,
+13056,"Mï¿½ritz, Landkreis (bis 03.09.2011)",2023,
+13056,"Mï¿½ritz, Landkreis (bis 03.09.2011)",2024,
+13057,"Nordvorpommern, Landkreis (bis 03.09.2011)",2020,
+13057,"Nordvorpommern, Landkreis (bis 03.09.2011)",2021,
+13057,"Nordvorpommern, Landkreis (bis 03.09.2011)",2022,
+13057,"Nordvorpommern, Landkreis (bis 03.09.2011)",2023,
+13057,"Nordvorpommern, Landkreis (bis 03.09.2011)",2024,
+13058,"Nordwestmecklenburg, Landkreis (bis 03.09.2011)",2020,
+13058,"Nordwestmecklenburg, Landkreis (bis 03.09.2011)",2021,
+13058,"Nordwestmecklenburg, Landkreis (bis 03.09.2011)",2022,
+13058,"Nordwestmecklenburg, Landkreis (bis 03.09.2011)",2023,
+13058,"Nordwestmecklenburg, Landkreis (bis 03.09.2011)",2024,
+13059,"Ostvorpommern, Landkreis (bis 03.09.2011)",2020,
+13059,"Ostvorpommern, Landkreis (bis 03.09.2011)",2021,
+13059,"Ostvorpommern, Landkreis (bis 03.09.2011)",2022,
+13059,"Ostvorpommern, Landkreis (bis 03.09.2011)",2023,
+13059,"Ostvorpommern, Landkreis (bis 03.09.2011)",2024,
+13060,"Parchim, Landkreis (bis 03.09.2011)",2020,
+13060,"Parchim, Landkreis (bis 03.09.2011)",2021,
+13060,"Parchim, Landkreis (bis 03.09.2011)",2022,
+13060,"Parchim, Landkreis (bis 03.09.2011)",2023,
+13060,"Parchim, Landkreis (bis 03.09.2011)",2024,
+13061,"Rï¿½gen, Landkreis (bis 03.09.2011)",2020,
+13061,"Rï¿½gen, Landkreis (bis 03.09.2011)",2021,
+13061,"Rï¿½gen, Landkreis (bis 03.09.2011)",2022,
+13061,"Rï¿½gen, Landkreis (bis 03.09.2011)",2023,
+13061,"Rï¿½gen, Landkreis (bis 03.09.2011)",2024,
+13062,"Uecker-Randow, Landkreis (bis 03.09.2011)",2020,
+13062,"Uecker-Randow, Landkreis (bis 03.09.2011)",2021,
+13062,"Uecker-Randow, Landkreis (bis 03.09.2011)",2022,
+13062,"Uecker-Randow, Landkreis (bis 03.09.2011)",2023,
+13062,"Uecker-Randow, Landkreis (bis 03.09.2011)",2024,
+13071,"Mecklenburgische Seenplatte, Landkreis",2020,258057.0
+13071,"Mecklenburgische Seenplatte, Landkreis",2021,257525.0
+13071,"Mecklenburgische Seenplatte, Landkreis",2022,247735.0
+13071,"Mecklenburgische Seenplatte, Landkreis",2023,247575.0
+13071,"Mecklenburgische Seenplatte, Landkreis",2024,246318.0
+13072,"Rostock, Landkreis",2020,217072.0
+13072,"Rostock, Landkreis",2021,217796.0
+13072,"Rostock, Landkreis",2022,218132.0
+13072,"Rostock, Landkreis",2023,218780.0
+13072,"Rostock, Landkreis",2024,218721.0
+13073,"Vorpommern-Rï¿½gen, Landkreis",2020,225383.0
+13073,"Vorpommern-Rï¿½gen, Landkreis",2021,225900.0
+13073,"Vorpommern-Rï¿½gen, Landkreis",2022,215983.0
+13073,"Vorpommern-Rï¿½gen, Landkreis",2023,216175.0
+13073,"Vorpommern-Rï¿½gen, Landkreis",2024,215203.0
+13074,"Nordwestmecklenburg, Landkreis",2020,157975.0
+13074,"Nordwestmecklenburg, Landkreis",2021,158449.0
+13074,"Nordwestmecklenburg, Landkreis",2022,157108.0
+13074,"Nordwestmecklenburg, Landkreis",2023,157160.0
+13074,"Nordwestmecklenburg, Landkreis",2024,156692.0
+13075,"Vorpommern-Greifswald, Landkreis",2020,235773.0
+13075,"Vorpommern-Greifswald, Landkreis",2021,235451.0
+13075,"Vorpommern-Greifswald, Landkreis",2022,226324.0
+13075,"Vorpommern-Greifswald, Landkreis",2023,226181.0
+13075,"Vorpommern-Greifswald, Landkreis",2024,224956.0
+13076,"Ludwigslust-Parchim, Landkreis",2020,211844.0
+13076,"Ludwigslust-Parchim, Landkreis",2021,211899.0
+13076,"Ludwigslust-Parchim, Landkreis",2022,209244.0
+13076,"Ludwigslust-Parchim, Landkreis",2023,209372.0
+13076,"Ludwigslust-Parchim, Landkreis",2024,208092.0
+14161,"Chemnitz, kreisfreie Stadt (bis 31.07.2008)",2020,
+14161,"Chemnitz, kreisfreie Stadt (bis 31.07.2008)",2021,
+14161,"Chemnitz, kreisfreie Stadt (bis 31.07.2008)",2022,
+14161,"Chemnitz, kreisfreie Stadt (bis 31.07.2008)",2023,
+14161,"Chemnitz, kreisfreie Stadt (bis 31.07.2008)",2024,
+14166,"Plauen, kreisfreie Stadt (bis 31.07.2008)",2020,
+14166,"Plauen, kreisfreie Stadt (bis 31.07.2008)",2021,
+14166,"Plauen, kreisfreie Stadt (bis 31.07.2008)",2022,
+14166,"Plauen, kreisfreie Stadt (bis 31.07.2008)",2023,
+14166,"Plauen, kreisfreie Stadt (bis 31.07.2008)",2024,
+14167,"Zwickau, kreisfreie Stadt (bis 31.07.2008)",2020,
+14167,"Zwickau, kreisfreie Stadt (bis 31.07.2008)",2021,
+14167,"Zwickau, kreisfreie Stadt (bis 31.07.2008)",2022,
+14167,"Zwickau, kreisfreie Stadt (bis 31.07.2008)",2023,
+14167,"Zwickau, kreisfreie Stadt (bis 31.07.2008)",2024,
+14171,"Annaberg, Landkreis (bis 31.07.2008)",2020,
+14171,"Annaberg, Landkreis (bis 31.07.2008)",2021,
+14171,"Annaberg, Landkreis (bis 31.07.2008)",2022,
+14171,"Annaberg, Landkreis (bis 31.07.2008)",2023,
+14171,"Annaberg, Landkreis (bis 31.07.2008)",2024,
+14173,"Chemnitzer Land, Landkreis (bis 31.07.2008)",2020,
+14173,"Chemnitzer Land, Landkreis (bis 31.07.2008)",2021,
+14173,"Chemnitzer Land, Landkreis (bis 31.07.2008)",2022,
+14173,"Chemnitzer Land, Landkreis (bis 31.07.2008)",2023,
+14173,"Chemnitzer Land, Landkreis (bis 31.07.2008)",2024,
+14177,"Freiberg, Landkreis (bis 31.07.2008)",2020,
+14177,"Freiberg, Landkreis (bis 31.07.2008)",2021,
+14177,"Freiberg, Landkreis (bis 31.07.2008)",2022,
+14177,"Freiberg, Landkreis (bis 31.07.2008)",2023,
+14177,"Freiberg, Landkreis (bis 31.07.2008)",2024,
+14178,Vogtlandkreis (bis 31.07.2008),2020,
+14178,Vogtlandkreis (bis 31.07.2008),2021,
+14178,Vogtlandkreis (bis 31.07.2008),2022,
+14178,Vogtlandkreis (bis 31.07.2008),2023,
+14178,Vogtlandkreis (bis 31.07.2008),2024,
+14181,Mittlerer Erzgebirgskreis (bis 31.07.2008),2020,
+14181,Mittlerer Erzgebirgskreis (bis 31.07.2008),2021,
+14181,Mittlerer Erzgebirgskreis (bis 31.07.2008),2022,
+14181,Mittlerer Erzgebirgskreis (bis 31.07.2008),2023,
+14181,Mittlerer Erzgebirgskreis (bis 31.07.2008),2024,
+14182,"Mittweida, Landkreis (bis 31.07.2008)",2020,
+14182,"Mittweida, Landkreis (bis 31.07.2008)",2021,
+14182,"Mittweida, Landkreis (bis 31.07.2008)",2022,
+14182,"Mittweida, Landkreis (bis 31.07.2008)",2023,
+14182,"Mittweida, Landkreis (bis 31.07.2008)",2024,
+14188,"Stollberg, Landkreis (bis 31.07.2008)",2020,
+14188,"Stollberg, Landkreis (bis 31.07.2008)",2021,
+14188,"Stollberg, Landkreis (bis 31.07.2008)",2022,
+14188,"Stollberg, Landkreis (bis 31.07.2008)",2023,
+14188,"Stollberg, Landkreis (bis 31.07.2008)",2024,
+14191,"Aue-Schwarzenberg, Landkreis (bis 31.07.2008)",2020,
+14191,"Aue-Schwarzenberg, Landkreis (bis 31.07.2008)",2021,
+14191,"Aue-Schwarzenberg, Landkreis (bis 31.07.2008)",2022,
+14191,"Aue-Schwarzenberg, Landkreis (bis 31.07.2008)",2023,
+14191,"Aue-Schwarzenberg, Landkreis (bis 31.07.2008)",2024,
+14193,"Zwickauer Land, Landkreis (bis 31.07.2008)",2020,
+14193,"Zwickauer Land, Landkreis (bis 31.07.2008)",2021,
+14193,"Zwickauer Land, Landkreis (bis 31.07.2008)",2022,
+14193,"Zwickauer Land, Landkreis (bis 31.07.2008)",2023,
+14193,"Zwickauer Land, Landkreis (bis 31.07.2008)",2024,
+14262,"Dresden, kreisfreie Stadt (bis 31.07.2008)",2020,
+14262,"Dresden, kreisfreie Stadt (bis 31.07.2008)",2021,
+14262,"Dresden, kreisfreie Stadt (bis 31.07.2008)",2022,
+14262,"Dresden, kreisfreie Stadt (bis 31.07.2008)",2023,
+14262,"Dresden, kreisfreie Stadt (bis 31.07.2008)",2024,
+14263,"Gï¿½rlitz, kreisfreie Stadt (bis 31.07.2008)",2020,
+14263,"Gï¿½rlitz, kreisfreie Stadt (bis 31.07.2008)",2021,
+14263,"Gï¿½rlitz, kreisfreie Stadt (bis 31.07.2008)",2022,
+14263,"Gï¿½rlitz, kreisfreie Stadt (bis 31.07.2008)",2023,
+14263,"Gï¿½rlitz, kreisfreie Stadt (bis 31.07.2008)",2024,
+14264,"Hoyerswerda, kreisfreie Stadt (bis 31.07.2008)",2020,
+14264,"Hoyerswerda, kreisfreie Stadt (bis 31.07.2008)",2021,
+14264,"Hoyerswerda, kreisfreie Stadt (bis 31.07.2008)",2022,
+14264,"Hoyerswerda, kreisfreie Stadt (bis 31.07.2008)",2023,
+14264,"Hoyerswerda, kreisfreie Stadt (bis 31.07.2008)",2024,
+14272,"Bautzen, Landkreis (bis 31.07.2008)",2020,
+14272,"Bautzen, Landkreis (bis 31.07.2008)",2021,
+14272,"Bautzen, Landkreis (bis 31.07.2008)",2022,
+14272,"Bautzen, Landkreis (bis 31.07.2008)",2023,
+14272,"Bautzen, Landkreis (bis 31.07.2008)",2024,
+14280,"Meiï¿½en, Landkreis (bis 31.07.2008)",2020,
+14280,"Meiï¿½en, Landkreis (bis 31.07.2008)",2021,
+14280,"Meiï¿½en, Landkreis (bis 31.07.2008)",2022,
+14280,"Meiï¿½en, Landkreis (bis 31.07.2008)",2023,
+14280,"Meiï¿½en, Landkreis (bis 31.07.2008)",2024,
+14284,Niederschlesischer Oberlausitzkreis (b.31.07.2008),2020,
+14284,Niederschlesischer Oberlausitzkreis (b.31.07.2008),2021,
+14284,Niederschlesischer Oberlausitzkreis (b.31.07.2008),2022,
+14284,Niederschlesischer Oberlausitzkreis (b.31.07.2008),2023,
+14284,Niederschlesischer Oberlausitzkreis (b.31.07.2008),2024,
+14285,"Riesa-Groï¿½enhain, Landkreis (bis 31.07.2008)",2020,
+14285,"Riesa-Groï¿½enhain, Landkreis (bis 31.07.2008)",2021,
+14285,"Riesa-Groï¿½enhain, Landkreis (bis 31.07.2008)",2022,
+14285,"Riesa-Groï¿½enhain, Landkreis (bis 31.07.2008)",2023,
+14285,"Riesa-Groï¿½enhain, Landkreis (bis 31.07.2008)",2024,
+14286,"Lï¿½bau-Zittau, Landkreis (bis 31.07.2008)",2020,
+14286,"Lï¿½bau-Zittau, Landkreis (bis 31.07.2008)",2021,
+14286,"Lï¿½bau-Zittau, Landkreis (bis 31.07.2008)",2022,
+14286,"Lï¿½bau-Zittau, Landkreis (bis 31.07.2008)",2023,
+14286,"Lï¿½bau-Zittau, Landkreis (bis 31.07.2008)",2024,
+14287,"Sï¿½chsische Schweiz, Landkreis (bis 31.07.2008)",2020,
+14287,"Sï¿½chsische Schweiz, Landkreis (bis 31.07.2008)",2021,
+14287,"Sï¿½chsische Schweiz, Landkreis (bis 31.07.2008)",2022,
+14287,"Sï¿½chsische Schweiz, Landkreis (bis 31.07.2008)",2023,
+14287,"Sï¿½chsische Schweiz, Landkreis (bis 31.07.2008)",2024,
+14290,Weiï¿½eritzkreis (bis 31.07.2008),2020,
+14290,Weiï¿½eritzkreis (bis 31.07.2008),2021,
+14290,Weiï¿½eritzkreis (bis 31.07.2008),2022,
+14290,Weiï¿½eritzkreis (bis 31.07.2008),2023,
+14290,Weiï¿½eritzkreis (bis 31.07.2008),2024,
+14292,"Kamenz, Landkreis (bis 31.07.2008)",2020,
+14292,"Kamenz, Landkreis (bis 31.07.2008)",2021,
+14292,"Kamenz, Landkreis (bis 31.07.2008)",2022,
+14292,"Kamenz, Landkreis (bis 31.07.2008)",2023,
+14292,"Kamenz, Landkreis (bis 31.07.2008)",2024,
+14365,"Leipzig, kreisfreie Stadt (bis 31.07.2008)",2020,
+14365,"Leipzig, kreisfreie Stadt (bis 31.07.2008)",2021,
+14365,"Leipzig, kreisfreie Stadt (bis 31.07.2008)",2022,
+14365,"Leipzig, kreisfreie Stadt (bis 31.07.2008)",2023,
+14365,"Leipzig, kreisfreie Stadt (bis 31.07.2008)",2024,
+14374,"Delitzsch, Landkreis (bis 31.07.2008)",2020,
+14374,"Delitzsch, Landkreis (bis 31.07.2008)",2021,
+14374,"Delitzsch, Landkreis (bis 31.07.2008)",2022,
+14374,"Delitzsch, Landkreis (bis 31.07.2008)",2023,
+14374,"Delitzsch, Landkreis (bis 31.07.2008)",2024,
+14375,"Dï¿½beln, Landkreis (bis 31.07.2008)",2020,
+14375,"Dï¿½beln, Landkreis (bis 31.07.2008)",2021,
+14375,"Dï¿½beln, Landkreis (bis 31.07.2008)",2022,
+14375,"Dï¿½beln, Landkreis (bis 31.07.2008)",2023,
+14375,"Dï¿½beln, Landkreis (bis 31.07.2008)",2024,
+14379,"Leipziger Land, Landkreis (bis 31.07.2008)",2020,
+14379,"Leipziger Land, Landkreis (bis 31.07.2008)",2021,
+14379,"Leipziger Land, Landkreis (bis 31.07.2008)",2022,
+14379,"Leipziger Land, Landkreis (bis 31.07.2008)",2023,
+14379,"Leipziger Land, Landkreis (bis 31.07.2008)",2024,
+14383,Muldentalkreis (bis 31.07.2008),2020,
+14383,Muldentalkreis (bis 31.07.2008),2021,
+14383,Muldentalkreis (bis 31.07.2008),2022,
+14383,Muldentalkreis (bis 31.07.2008),2023,
+14383,Muldentalkreis (bis 31.07.2008),2024,
+14389,"Torgau-Oschatz, Landkreis (bis 31.07.2008)",2020,
+14389,"Torgau-Oschatz, Landkreis (bis 31.07.2008)",2021,
+14389,"Torgau-Oschatz, Landkreis (bis 31.07.2008)",2022,
+14389,"Torgau-Oschatz, Landkreis (bis 31.07.2008)",2023,
+14389,"Torgau-Oschatz, Landkreis (bis 31.07.2008)",2024,
+14511,"Chemnitz, kreisfreie Stadt",2020,244401.0
+14511,"Chemnitz, kreisfreie Stadt",2021,243105.0
+14511,"Chemnitz, kreisfreie Stadt",2022,242896.0
+14511,"Chemnitz, kreisfreie Stadt",2023,245150.0
+14511,"Chemnitz, kreisfreie Stadt",2024,245618.0
+14521,Erzgebirgskreis,2020,331917.0
+14521,Erzgebirgskreis,2021,328695.0
+14521,Erzgebirgskreis,2022,324070.0
+14521,Erzgebirgskreis,2023,322179.0
+14521,Erzgebirgskreis,2024,318394.0
+14522,"Mittelsachsen, Landkreis",2020,301474.0
+14522,"Mittelsachsen, Landkreis",2021,299329.0
+14522,"Mittelsachsen, Landkreis",2022,297991.0
+14522,"Mittelsachsen, Landkreis",2023,297766.0
+14522,"Mittelsachsen, Landkreis",2024,296431.0
+14523,Vogtlandkreis,2020,223905.0
+14523,Vogtlandkreis,2021,221376.0
+14523,Vogtlandkreis,2022,221783.0
+14523,Vogtlandkreis,2023,221088.0
+14523,Vogtlandkreis,2024,219100.0
+14524,"Zwickau, Landkreis",2020,312033.0
+14524,"Zwickau, Landkreis",2021,309621.0
+14524,"Zwickau, Landkreis",2022,310532.0
+14524,"Zwickau, Landkreis",2023,309866.0
+14524,"Zwickau, Landkreis",2024,306793.0
+14612,"Dresden, kreisfreie Stadt",2020,556227.0
+14612,"Dresden, kreisfreie Stadt",2021,555351.0
+14612,"Dresden, kreisfreie Stadt",2022,559986.0
+14612,"Dresden, kreisfreie Stadt",2023,563019.0
+14612,"Dresden, kreisfreie Stadt",2024,564904.0
+14625,"Bautzen, Landkreis",2020,298010.0
+14625,"Bautzen, Landkreis",2021,296290.0
+14625,"Bautzen, Landkreis",2022,295917.0
+14625,"Bautzen, Landkreis",2023,294746.0
+14625,"Bautzen, Landkreis",2024,292608.0
+14626,"Gï¿½rlitz, Landkreis",2020,250558.0
+14626,"Gï¿½rlitz, Landkreis",2021,248273.0
+14626,"Gï¿½rlitz, Landkreis",2022,246989.0
+14626,"Gï¿½rlitz, Landkreis",2023,245867.0
+14626,"Gï¿½rlitz, Landkreis",2024,243958.0
+14627,"Meiï¿½en, Landkreis",2020,240371.0
+14627,"Meiï¿½en, Landkreis",2021,239344.0
+14627,"Meiï¿½en, Landkreis",2022,240519.0
+14627,"Meiï¿½en, Landkreis",2023,240368.0
+14627,"Meiï¿½en, Landkreis",2024,239221.0
+14628,"Sï¿½chsische Schweiz-Osterzgebirge, Landkreis",2020,244722.0
+14628,"Sï¿½chsische Schweiz-Osterzgebirge, Landkreis",2021,244009.0
+14628,"Sï¿½chsische Schweiz-Osterzgebirge, Landkreis",2022,245313.0
+14628,"Sï¿½chsische Schweiz-Osterzgebirge, Landkreis",2023,245143.0
+14628,"Sï¿½chsische Schweiz-Osterzgebirge, Landkreis",2024,243996.0
+14713,"Leipzig, kreisfreie Stadt",2020,597493.0
+14713,"Leipzig, kreisfreie Stadt",2021,601866.0
+14713,"Leipzig, kreisfreie Stadt",2022,603578.0
+14713,"Leipzig, kreisfreie Stadt",2023,608013.0
+14713,"Leipzig, kreisfreie Stadt",2024,611850.0
+14729,"Leipzig, Landkreis",2020,258386.0
+14729,"Leipzig, Landkreis",2021,258214.0
+14729,"Leipzig, Landkreis",2022,259568.0
+14729,"Leipzig, Landkreis",2023,260706.0
+14729,"Leipzig, Landkreis",2024,260127.0
+14730,"Nordsachsen, Landkreis",2020,197444.0
+14730,"Nordsachsen, Landkreis",2021,197529.0
+14730,"Nordsachsen, Landkreis",2022,200825.0
+14730,"Nordsachsen, Landkreis",2023,200778.0
+14730,"Nordsachsen, Landkreis",2024,199422.0
+15001,"Dessau-Roï¿½lau, kreisfreie Stadt",2020,79354.0
+15001,"Dessau-Roï¿½lau, kreisfreie Stadt",2021,78731.0
+15001,"Dessau-Roï¿½lau, kreisfreie Stadt",2022,76042.0
+15001,"Dessau-Roï¿½lau, kreisfreie Stadt",2023,76062.0
+15001,"Dessau-Roï¿½lau, kreisfreie Stadt",2024,75402.0
+15002,"Halle (Saale), kreisfreie Stadt",2020,237865.0
+15002,"Halle (Saale), kreisfreie Stadt",2021,238061.0
+15002,"Halle (Saale), kreisfreie Stadt",2022,227416.0
+15002,"Halle (Saale), kreisfreie Stadt",2023,227639.0
+15002,"Halle (Saale), kreisfreie Stadt",2024,226767.0
+15003,"Magdeburg, kreisfreie Stadt",2020,235775.0
+15003,"Magdeburg, kreisfreie Stadt",2021,236188.0
+15003,"Magdeburg, kreisfreie Stadt",2022,241753.0
+15003,"Magdeburg, kreisfreie Stadt",2023,242491.0
+15003,"Magdeburg, kreisfreie Stadt",2024,244329.0
+15081,Altmarkkreis Salzwedel,2020,82687.0
+15081,Altmarkkreis Salzwedel,2021,81986.0
+15081,Altmarkkreis Salzwedel,2022,81369.0
+15081,Altmarkkreis Salzwedel,2023,80780.0
+15081,Altmarkkreis Salzwedel,2024,79980.0
+15082,"Anhalt-Bitterfeld, Landkreis",2020,157217.0
+15082,"Anhalt-Bitterfeld, Landkreis",2021,155900.0
+15082,"Anhalt-Bitterfeld, Landkreis",2022,154366.0
+15082,"Anhalt-Bitterfeld, Landkreis",2023,153801.0
+15082,"Anhalt-Bitterfeld, Landkreis",2024,153035.0
+15083,"Bï¿½rde, Landkreis",2020,170567.0
+15083,"Bï¿½rde, Landkreis",2021,170106.0
+15083,"Bï¿½rde, Landkreis",2022,168952.0
+15083,"Bï¿½rde, Landkreis",2023,168593.0
+15083,"Bï¿½rde, Landkreis",2024,167924.0
+15084,Burgenlandkreis,2020,177590.0
+15084,Burgenlandkreis,2021,176333.0
+15084,Burgenlandkreis,2022,175180.0
+15084,Burgenlandkreis,2023,175217.0
+15084,Burgenlandkreis,2024,173684.0
+15085,"Harz, Landkreis",2020,210975.0
+15085,"Harz, Landkreis",2021,209117.0
+15085,"Harz, Landkreis",2022,208634.0
+15085,"Harz, Landkreis",2023,207134.0
+15085,"Harz, Landkreis",2024,205484.0
+15086,"Jerichower Land, Landkreis",2020,89403.0
+15086,"Jerichower Land, Landkreis",2021,89118.0
+15086,"Jerichower Land, Landkreis",2022,89033.0
+15086,"Jerichower Land, Landkreis",2023,88695.0
+15086,"Jerichower Land, Landkreis",2024,88509.0
+15087,"Mansfeld-Sï¿½dharz, Landkreis",2020,133690.0
+15087,"Mansfeld-Sï¿½dharz, Landkreis",2021,132317.0
+15087,"Mansfeld-Sï¿½dharz, Landkreis",2022,131107.0
+15087,"Mansfeld-Sï¿½dharz, Landkreis",2023,130162.0
+15087,"Mansfeld-Sï¿½dharz, Landkreis",2024,129029.0
+15088,Saalekreis,2020,183434.0
+15088,Saalekreis,2021,182814.0
+15088,Saalekreis,2022,182390.0
+15088,Saalekreis,2023,182677.0
+15088,Saalekreis,2024,182451.0
+15089,Salzlandkreis,2020,187457.0
+15089,Salzlandkreis,2021,185495.0
+15089,Salzlandkreis,2022,183727.0
+15089,Salzlandkreis,2023,182296.0
+15089,Salzlandkreis,2024,180771.0
+15090,"Stendal, Landkreis",2020,110485.0
+15090,"Stendal, Landkreis",2021,109746.0
+15090,"Stendal, Landkreis",2022,107462.0
+15090,"Stendal, Landkreis",2023,106793.0
+15090,"Stendal, Landkreis",2024,106538.0
+15091,"Wittenberg, Landkreis",2020,124185.0
+15091,"Wittenberg, Landkreis",2021,123341.0
+15091,"Wittenberg, Landkreis",2022,122808.0
+15091,"Wittenberg, Landkreis",2023,122230.0
+15091,"Wittenberg, Landkreis",2024,121694.0
+15101,"Dessau, kreisfreie Stadt (bis 30.06.2007)",2020,
+15101,"Dessau, kreisfreie Stadt (bis 30.06.2007)",2021,
+15101,"Dessau, kreisfreie Stadt (bis 30.06.2007)",2022,
+15101,"Dessau, kreisfreie Stadt (bis 30.06.2007)",2023,
+15101,"Dessau, kreisfreie Stadt (bis 30.06.2007)",2024,
+15151,"Anhalt-Zerbst, Landkreis (bis 30.06.2007)",2020,
+15151,"Anhalt-Zerbst, Landkreis (bis 30.06.2007)",2021,
+15151,"Anhalt-Zerbst, Landkreis (bis 30.06.2007)",2022,
+15151,"Anhalt-Zerbst, Landkreis (bis 30.06.2007)",2023,
+15151,"Anhalt-Zerbst, Landkreis (bis 30.06.2007)",2024,
+15153,"Bernburg, Landkreis (bis 30.06.2007)",2020,
+15153,"Bernburg, Landkreis (bis 30.06.2007)",2021,
+15153,"Bernburg, Landkreis (bis 30.06.2007)",2022,
+15153,"Bernburg, Landkreis (bis 30.06.2007)",2023,
+15153,"Bernburg, Landkreis (bis 30.06.2007)",2024,
+15154,"Bitterfeld, Landkreis (bis 30.06.2007)",2020,
+15154,"Bitterfeld, Landkreis (bis 30.06.2007)",2021,
+15154,"Bitterfeld, Landkreis (bis 30.06.2007)",2022,
+15154,"Bitterfeld, Landkreis (bis 30.06.2007)",2023,
+15154,"Bitterfeld, Landkreis (bis 30.06.2007)",2024,
+15159,"Kï¿½then, Landkreis (bis 30.06.2007)",2020,
+15159,"Kï¿½then, Landkreis (bis 30.06.2007)",2021,
+15159,"Kï¿½then, Landkreis (bis 30.06.2007)",2022,
+15159,"Kï¿½then, Landkreis (bis 30.06.2007)",2023,
+15159,"Kï¿½then, Landkreis (bis 30.06.2007)",2024,
+15171,"Wittenberg, Landkreis (bis 30.06.2007)",2020,
+15171,"Wittenberg, Landkreis (bis 30.06.2007)",2021,
+15171,"Wittenberg, Landkreis (bis 30.06.2007)",2022,
+15171,"Wittenberg, Landkreis (bis 30.06.2007)",2023,
+15171,"Wittenberg, Landkreis (bis 30.06.2007)",2024,
+15202,"Halle (Saale), kreisfreie Stadt (bis 30.06.2007)",2020,
+15202,"Halle (Saale), kreisfreie Stadt (bis 30.06.2007)",2021,
+15202,"Halle (Saale), kreisfreie Stadt (bis 30.06.2007)",2022,
+15202,"Halle (Saale), kreisfreie Stadt (bis 30.06.2007)",2023,
+15202,"Halle (Saale), kreisfreie Stadt (bis 30.06.2007)",2024,
+15256,Burgenlandkreis (bis 30.06.2007),2020,
+15256,Burgenlandkreis (bis 30.06.2007),2021,
+15256,Burgenlandkreis (bis 30.06.2007),2022,
+15256,Burgenlandkreis (bis 30.06.2007),2023,
+15256,Burgenlandkreis (bis 30.06.2007),2024,
+15260,"Mansfelder Land, Landkreis (bis 30.06.2007)",2020,
+15260,"Mansfelder Land, Landkreis (bis 30.06.2007)",2021,
+15260,"Mansfelder Land, Landkreis (bis 30.06.2007)",2022,
+15260,"Mansfelder Land, Landkreis (bis 30.06.2007)",2023,
+15260,"Mansfelder Land, Landkreis (bis 30.06.2007)",2024,
+15261,"Merseburg-Querfurt, Landkreis (bis 30.06.2007)",2020,
+15261,"Merseburg-Querfurt, Landkreis (bis 30.06.2007)",2021,
+15261,"Merseburg-Querfurt, Landkreis (bis 30.06.2007)",2022,
+15261,"Merseburg-Querfurt, Landkreis (bis 30.06.2007)",2023,
+15261,"Merseburg-Querfurt, Landkreis (bis 30.06.2007)",2024,
+15265,Saalkreis (bis 30.06.2007),2020,
+15265,Saalkreis (bis 30.06.2007),2021,
+15265,Saalkreis (bis 30.06.2007),2022,
+15265,Saalkreis (bis 30.06.2007),2023,
+15265,Saalkreis (bis 30.06.2007),2024,
+15266,"Sangerhausen, Landkreis (bis 30.06.2007)",2020,
+15266,"Sangerhausen, Landkreis (bis 30.06.2007)",2021,
+15266,"Sangerhausen, Landkreis (bis 30.06.2007)",2022,
+15266,"Sangerhausen, Landkreis (bis 30.06.2007)",2023,
+15266,"Sangerhausen, Landkreis (bis 30.06.2007)",2024,
+15268,"Weiï¿½enfels, Landkreis (bis 30.06.2007)",2020,
+15268,"Weiï¿½enfels, Landkreis (bis 30.06.2007)",2021,
+15268,"Weiï¿½enfels, Landkreis (bis 30.06.2007)",2022,
+15268,"Weiï¿½enfels, Landkreis (bis 30.06.2007)",2023,
+15268,"Weiï¿½enfels, Landkreis (bis 30.06.2007)",2024,
+15303,"Magdeburg, kreisfreie Stadt (bis 30.06.2007)",2020,
+15303,"Magdeburg, kreisfreie Stadt (bis 30.06.2007)",2021,
+15303,"Magdeburg, kreisfreie Stadt (bis 30.06.2007)",2022,
+15303,"Magdeburg, kreisfreie Stadt (bis 30.06.2007)",2023,
+15303,"Magdeburg, kreisfreie Stadt (bis 30.06.2007)",2024,
+15352,"Aschersleben-Staï¿½furt, Landkreis (bis 30.06.2007)",2020,
+15352,"Aschersleben-Staï¿½furt, Landkreis (bis 30.06.2007)",2021,
+15352,"Aschersleben-Staï¿½furt, Landkreis (bis 30.06.2007)",2022,
+15352,"Aschersleben-Staï¿½furt, Landkreis (bis 30.06.2007)",2023,
+15352,"Aschersleben-Staï¿½furt, Landkreis (bis 30.06.2007)",2024,
+15355,Bï¿½rdekreis (bis 30.06.2007),2020,
+15355,Bï¿½rdekreis (bis 30.06.2007),2021,
+15355,Bï¿½rdekreis (bis 30.06.2007),2022,
+15355,Bï¿½rdekreis (bis 30.06.2007),2023,
+15355,Bï¿½rdekreis (bis 30.06.2007),2024,
+15357,"Halberstadt, Landkreis (bis 30.06.2007)",2020,
+15357,"Halberstadt, Landkreis (bis 30.06.2007)",2021,
+15357,"Halberstadt, Landkreis (bis 30.06.2007)",2022,
+15357,"Halberstadt, Landkreis (bis 30.06.2007)",2023,
+15357,"Halberstadt, Landkreis (bis 30.06.2007)",2024,
+15358,"Jerichower Land, Landkreis (bis 30.06.2007)",2020,
+15358,"Jerichower Land, Landkreis (bis 30.06.2007)",2021,
+15358,"Jerichower Land, Landkreis (bis 30.06.2007)",2022,
+15358,"Jerichower Land, Landkreis (bis 30.06.2007)",2023,
+15358,"Jerichower Land, Landkreis (bis 30.06.2007)",2024,
+15362,Ohrekreis (bis 30.06.2007),2020,
+15362,Ohrekreis (bis 30.06.2007),2021,
+15362,Ohrekreis (bis 30.06.2007),2022,
+15362,Ohrekreis (bis 30.06.2007),2023,
+15362,Ohrekreis (bis 30.06.2007),2024,
+15363,"Stendal, Landkreis (bis 30.06.2007)",2020,
+15363,"Stendal, Landkreis (bis 30.06.2007)",2021,
+15363,"Stendal, Landkreis (bis 30.06.2007)",2022,
+15363,"Stendal, Landkreis (bis 30.06.2007)",2023,
+15363,"Stendal, Landkreis (bis 30.06.2007)",2024,
+15364,"Quedlinburg, Landkreis (bis 30.06.2007)",2020,
+15364,"Quedlinburg, Landkreis (bis 30.06.2007)",2021,
+15364,"Quedlinburg, Landkreis (bis 30.06.2007)",2022,
+15364,"Quedlinburg, Landkreis (bis 30.06.2007)",2023,
+15364,"Quedlinburg, Landkreis (bis 30.06.2007)",2024,
+15367,"Schï¿½nebeck, Landkreis (bis 30.06.2007)",2020,
+15367,"Schï¿½nebeck, Landkreis (bis 30.06.2007)",2021,
+15367,"Schï¿½nebeck, Landkreis (bis 30.06.2007)",2022,
+15367,"Schï¿½nebeck, Landkreis (bis 30.06.2007)",2023,
+15367,"Schï¿½nebeck, Landkreis (bis 30.06.2007)",2024,
+15369,"Wernigerode, Landkreis (bis 30.06.2007)",2020,
+15369,"Wernigerode, Landkreis (bis 30.06.2007)",2021,
+15369,"Wernigerode, Landkreis (bis 30.06.2007)",2022,
+15369,"Wernigerode, Landkreis (bis 30.06.2007)",2023,
+15369,"Wernigerode, Landkreis (bis 30.06.2007)",2024,
+15370,Altmarkkreis Salzwedel (bis 30.06.2007),2020,
+15370,Altmarkkreis Salzwedel (bis 30.06.2007),2021,
+15370,Altmarkkreis Salzwedel (bis 30.06.2007),2022,
+15370,Altmarkkreis Salzwedel (bis 30.06.2007),2023,
+15370,Altmarkkreis Salzwedel (bis 30.06.2007),2024,
+16051,"Erfurt, kreisfreie Stadt",2020,213692.0
+16051,"Erfurt, kreisfreie Stadt",2021,213227.0
+16051,"Erfurt, kreisfreie Stadt",2022,218769.0
+16051,"Erfurt, kreisfreie Stadt",2023,219549.0
+16051,"Erfurt, kreisfreie Stadt",2024,218793.0
+16052,"Gera, kreisfreie Stadt",2020,92126.0
+16052,"Gera, kreisfreie Stadt",2021,91368.0
+16052,"Gera, kreisfreie Stadt",2022,94454.0
+16052,"Gera, kreisfreie Stadt",2023,95695.0
+16052,"Gera, kreisfreie Stadt",2024,95608.0
+16053,"Jena, kreisfreie Stadt",2020,110731.0
+16053,"Jena, kreisfreie Stadt",2021,110502.0
+16053,"Jena, kreisfreie Stadt",2022,110470.0
+16053,"Jena, kreisfreie Stadt",2023,110076.0
+16053,"Jena, kreisfreie Stadt",2024,109725.0
+16054,"Suhl, kreisfreie Stadt",2020,36395.0
+16054,"Suhl, kreisfreie Stadt",2021,36054.0
+16054,"Suhl, kreisfreie Stadt",2022,36325.0
+16054,"Suhl, kreisfreie Stadt",2023,36307.0
+16054,"Suhl, kreisfreie Stadt",2024,34685.0
+16055,"Weimar, kreisfreie Stadt",2020,65098.0
+16055,"Weimar, kreisfreie Stadt",2021,65138.0
+16055,"Weimar, kreisfreie Stadt",2022,65507.0
+16055,"Weimar, kreisfreie Stadt",2023,65528.0
+16055,"Weimar, kreisfreie Stadt",2024,65954.0
+16056,"Eisenach, kreisfreie Stadt (bis 30.06.2021)",2020,41970.0
+16056,"Eisenach, kreisfreie Stadt (bis 30.06.2021)",2021,
+16056,"Eisenach, kreisfreie Stadt (bis 30.06.2021)",2022,
+16056,"Eisenach, kreisfreie Stadt (bis 30.06.2021)",2023,
+16056,"Eisenach, kreisfreie Stadt (bis 30.06.2021)",2024,
+16061,"Eichsfeld, Landkreis",2020,99463.0
+16061,"Eichsfeld, Landkreis",2021,99324.0
+16061,"Eichsfeld, Landkreis",2022,99358.0
+16061,"Eichsfeld, Landkreis",2023,102699.0
+16061,"Eichsfeld, Landkreis",2024,103694.0
+16062,"Nordhausen, Landkreis",2020,82456.0
+16062,"Nordhausen, Landkreis",2021,81687.0
+16062,"Nordhausen, Landkreis",2022,81811.0
+16062,"Nordhausen, Landkreis",2023,81502.0
+16062,"Nordhausen, Landkreis",2024,80762.0
+16063,Wartburgkreis,2020,117967.0
+16063,Wartburgkreis,2021,158900.0
+16063,Wartburgkreis,2022,156566.0
+16063,Wartburgkreis,2023,156334.0
+16063,Wartburgkreis,2024,154957.0
+16064,Unstrut-Hainich-Kreis,2020,101698.0
+16064,Unstrut-Hainich-Kreis,2021,101269.0
+16064,Unstrut-Hainich-Kreis,2022,100435.0
+16064,Unstrut-Hainich-Kreis,2023,96458.0
+16064,Unstrut-Hainich-Kreis,2024,94613.0
+16065,Kyffhï¿½userkreis,2020,73522.0
+16065,Kyffhï¿½userkreis,2021,72964.0
+16065,Kyffhï¿½userkreis,2022,73022.0
+16065,Kyffhï¿½userkreis,2023,72556.0
+16065,Kyffhï¿½userkreis,2024,71738.0
+16066,"Schmalkalden-Meiningen, Landkreis",2020,124241.0
+16066,"Schmalkalden-Meiningen, Landkreis",2021,123404.0
+16066,"Schmalkalden-Meiningen, Landkreis",2022,121791.0
+16066,"Schmalkalden-Meiningen, Landkreis",2023,121151.0
+16066,"Schmalkalden-Meiningen, Landkreis",2024,120214.0
+16067,"Gotha, Landkreis",2020,134563.0
+16067,"Gotha, Landkreis",2021,133825.0
+16067,"Gotha, Landkreis",2022,137321.0
+16067,"Gotha, Landkreis",2023,136933.0
+16067,"Gotha, Landkreis",2024,135838.0
+16068,"Sï¿½mmerda, Landkreis",2020,69107.0
+16068,"Sï¿½mmerda, Landkreis",2021,68717.0
+16068,"Sï¿½mmerda, Landkreis",2022,68325.0
+16068,"Sï¿½mmerda, Landkreis",2023,68109.0
+16068,"Sï¿½mmerda, Landkreis",2024,67693.0
+16069,"Hildburghausen, Landkreis",2020,62656.0
+16069,"Hildburghausen, Landkreis",2021,62089.0
+16069,"Hildburghausen, Landkreis",2022,61271.0
+16069,"Hildburghausen, Landkreis",2023,60691.0
+16069,"Hildburghausen, Landkreis",2024,59987.0
+16070,Ilm-Kreis,2020,105606.0
+16070,Ilm-Kreis,2021,105367.0
+16070,Ilm-Kreis,2022,106975.0
+16070,Ilm-Kreis,2023,107002.0
+16070,Ilm-Kreis,2024,106657.0
+16071,"Weimarer Land, Landkreis",2020,82291.0
+16071,"Weimarer Land, Landkreis",2021,82103.0
+16071,"Weimarer Land, Landkreis",2022,83148.0
+16071,"Weimarer Land, Landkreis",2023,82868.0
+16071,"Weimarer Land, Landkreis",2024,82392.0
+16072,"Sonneberg, Landkreis",2020,57044.0
+16072,"Sonneberg, Landkreis",2021,56504.0
+16072,"Sonneberg, Landkreis",2022,56412.0
+16072,"Sonneberg, Landkreis",2023,55959.0
+16072,"Sonneberg, Landkreis",2024,54964.0
+16073,"Saalfeld-Rudolstadt, Landkreis",2020,102139.0
+16073,"Saalfeld-Rudolstadt, Landkreis",2021,100969.0
+16073,"Saalfeld-Rudolstadt, Landkreis",2022,101556.0
+16073,"Saalfeld-Rudolstadt, Landkreis",2023,101111.0
+16073,"Saalfeld-Rudolstadt, Landkreis",2024,100105.0
+16074,Saale-Holzland-Kreis,2020,82816.0
+16074,Saale-Holzland-Kreis,2021,82513.0
+16074,Saale-Holzland-Kreis,2022,83595.0
+16074,Saale-Holzland-Kreis,2023,84040.0
+16074,Saale-Holzland-Kreis,2024,83342.0
+16075,Saale-Orla-Kreis,2020,79632.0
+16075,Saale-Orla-Kreis,2021,79030.0
+16075,Saale-Orla-Kreis,2022,78404.0
+16075,Saale-Orla-Kreis,2023,77859.0
+16075,Saale-Orla-Kreis,2024,77341.0
+16076,"Greiz, Landkreis",2020,96668.0
+16076,"Greiz, Landkreis",2021,96102.0
+16076,"Greiz, Landkreis",2022,95281.0
+16076,"Greiz, Landkreis",2023,94488.0
+16076,"Greiz, Landkreis",2024,93707.0
+16077,"Altenburger Land, Landkreis",2020,88356.0
+16077,"Altenburger Land, Landkreis",2021,87807.0
+16077,"Altenburger Land, Landkreis",2022,88034.0
+16077,"Altenburger Land, Landkreis",2023,87955.0
+16077,"Altenburger Land, Landkreis",2024,87508.0
+"Ab 2011: Ergebnisse auf Grundlage des Zensus 2011.
+Ab 2022: Ergebnisse auf Grundlage des Zensus 2022.",nan,2020,
+"Ab 2011: Ergebnisse auf Grundlage des Zensus 2011.
+Ab 2022: Ergebnisse auf Grundlage des Zensus 2022.",nan,2021,
+"Ab 2011: Ergebnisse auf Grundlage des Zensus 2011.
+Ab 2022: Ergebnisse auf Grundlage des Zensus 2022.",nan,2022,
+"Ab 2011: Ergebnisse auf Grundlage des Zensus 2011.
+Ab 2022: Ergebnisse auf Grundlage des Zensus 2022.",nan,2023,
+"Ab 2011: Ergebnisse auf Grundlage des Zensus 2011.
+Ab 2022: Ergebnisse auf Grundlage des Zensus 2022.",nan,2024,
+Stand: 20.06.2025 / 18:12:33,nan,2020,
+Stand: 20.06.2025 / 18:12:33,nan,2021,
+Stand: 20.06.2025 / 18:12:33,nan,2022,
+Stand: 20.06.2025 / 18:12:33,nan,2023,
+Stand: 20.06.2025 / 18:12:33,nan,2024,
+__________,nan,2020,
+__________,nan,2021,
+__________,nan,2022,
+__________,nan,2023,
+__________,nan,2024,
+"ï¿½ Statistisches Bundesamt (Destatis), 2025",nan,2020,
+"ï¿½ Statistisches Bundesamt (Destatis), 2025",nan,2021,
+"ï¿½ Statistisches Bundesamt (Destatis), 2025",nan,2022,
+"ï¿½ Statistisches Bundesamt (Destatis), 2025",nan,2023,
+"ï¿½ Statistisches Bundesamt (Destatis), 2025",nan,2024,

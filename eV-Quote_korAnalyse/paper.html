@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<title>Regionale Determinanten der E-Auto-Quote</title>
+<style>
+    body {
+      font-family: "Times New Roman", Times, serif;
+      font-size: 12pt;
+      line-height: 1.4;
+      max-width: 850px;
+      margin: 3cm auto;
+      color: #000;
+    }
+    
+    h1 {
+      font-size: 18pt;
+      margin-bottom: 1.2em;
+    }
+    
+    h2 {
+      font-size: 14pt;
+      margin-top: 2em;
+    }
+    
+    h3 {
+      font-size: 12pt;
+      margin-top: 1.5em;
+    }
+    
+    p {
+      text-align: justify;
+      margin-bottom: 0.8em;
+    }
+    
+    figure {
+      margin: 1.2em auto;
+      text-align: center;
+    }
+    
+    figcaption {
+      font-size: 10pt;
+      margin-top: 0.4em;
+    }
+    
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1em 0;
+    }
+    
+    td, th {
+      padding: 6px;
+    }
+    
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+    @media print {
+
+body {
+  max-width: none;
+  margin: 2.5cm;
+}
+
+h1 {
+  page-break-before: avoid;
+}
+
+h2 {
+  page-break-before: always;
+}
+
+h3 {
+  page-break-after: avoid;
+}
+
+figure,
+table {
+  page-break-inside: avoid;
+}
+
+p {
+  widows: 3;
+  orphans: 3;
+}
+
+}
+
+    </style>
+    </head>
+    <body>
+    
+<h1
+id="regionale-determinanten-der-e-auto-quote-in-deutschland-eine-panelbasierte-analyse-auf-kreisebene-20202023">Regionale
+Determinanten der E-Auto-Quote in Deutschland: Eine Korrelations
+Analyse auf Kreisebene (2020–2023)</h1>
+<h2 id="einleitung">1. Einleitung</h2>
+<p>Diese Arbeit untersucht die Frage, welche sozioökonomischen und
+demografischen Faktoren mit der regionalen Verbreitung von
+Elektromobilität in Deutschland zusammenhängen. Im Fokus steht die
+E-Auto-Quote auf Kreisebene und deren Variation über Raum und Zeit. Die
+Motivation ergibt sich aus der schnellen Zunahme der E-Auto-Quote, der
+beobachtbaren regionalen Unterschiede sowie der Annahme, dass soziale
+und wirtschaftliche Strukturen die Adoption neuer Technologien
+systematisch beeinflussen.</p>
+<p>Methodisch basiert die Untersuchung auf einem panelstrukturierten
+Datensatz auf Kreisebene (Kreis × Jahr), der amtliche Pkw-Bestandsdaten,
+volkswirtschaftliche Gesamtrechnungen und Bevölkerungsstatistiken
+kombiniert. Die Analyse folgt einem explorativ-quantitativen Ansatz mit
+deskriptiven Darstellungen, bivariaten Korrelationen, partiellen
+Korrelationen und linearen Regressionen, ergänzt um eine explizite
+Zeitdimension.</p>
+<h2 id="daten-und-variablen">2. Daten und Variablen</h2>
+<h3 id="datensätze-und-panelstruktur">2.1 Datensätze und
+Struktur</h3>
+<p>Die Analyse kombiniert drei zentrale Datendomänen: (1)
+Pkw-Bestandsdaten zur Berechnung der E-Auto-Quote, (2)
+volkswirtschaftliche Gesamtrechnungen zur Abbildung ökonomischer
+Dimensionen sowie (3) Bevölkerungsdaten zur demografischen Struktur.
+Alle Datensätze werden über die gemeinsamen Schlüssel
+<code>kreis_id</code> und <code>jahr</code> zusammengeführt und zu einem
+(unbalancierten) Panel auf Kreisebene aggregiert. Die Einheit der
+Analyse ist damit der Landkreis in einem bestimmten Jahr.</p>
+<h3 id="zielvariable-e-auto-quote">2.2 Zielvariable: E-Auto-Quote</h3>
+<p>Die E-Auto-Quote ist der Anteil elektrisch betriebener Pkw am
+gesamten Pkw-Bestand eines Kreises in einem Jahr. Diese
+Operationalisierung ermöglicht den Vergleich zwischen unterschiedlich
+großen Regionen und bildet die Marktdurchdringung von Elektromobilität
+ab.</p>
+<h3 id="latente-dimensionen-und-operationalisierung">2.3 Latente
+Dimensionen und Operationalisierung</h3>
+<p>Die Variablen werden entlang theoretisch begründeter latenter
+Dimensionen aufbereitet:</p>
+<ul>
+<li>Einkommensniveau: Lohn- und Entgeltkennzahlen pro Arbeitsstunde</li>
+<li>Wirtschaftsstruktur (Beschäftigung): sektorale
+Beschäftigtenanteile</li>
+<li>Arbeitsintensität: Arbeitsstunden pro Beschäftigten</li>
+<li>Dynamik: Lohnwachstum gegenüber dem Vorjahr</li>
+<li>Demografie: Anteile der Bevölkerung 18–35 Jahre bzw. 65+</li>
+<li>Mobilitätsniveau: Pkw pro 1.000 Einwohner</li>
+</ul>
+<table style="width:100%; border-collapse: collapse;">
+<tr>
+<td style="width:50%; padding:10px; text-align:center;">
+<img src="/Users/felixipfling/Documents/GitHub/codex_start/eV-Quote_korAnalyse/screenshot_01.png" style="width:100%;">
+</td>
+<td style="width:50%; padding:10px; text-align:center;">
+<img src="/Users/felixipfling/Documents/GitHub/codex_start/eV-Quote_korAnalyse/screenshot_02.png" style="width:100%;">
+</td>
+</tr>
+<tr>
+<td style="padding:10px; text-align:center;">
+<img src="/Users/felixipfling/Documents/GitHub/codex_start/eV-Quote_korAnalyse/screenshot_04.png" style="width:100%;">
+</td>
+<td style="padding:10px; text-align:center;">
+<img src="/Users/felixipfling/Documents/GitHub/codex_start/eV-Quote_korAnalyse/screenshot_05.png" style="width:100%;">
+</td>
+</tr>
+<tr>
+<td style="padding:10px; text-align:center;">
+<img src="/Users/felixipfling/Documents/GitHub/codex_start/eV-Quote_korAnalyse/screenshot_07.png" style="width:100%;">
+</td>
+<td style="padding:10px; text-align:center;">
+<img src="/Users/felixipfling/Documents/GitHub/codex_start/eV-Quote_korAnalyse/screenshot_08.png" style="width:100%;">
+</td>
+</tr>
+<tr>
+<td style="padding:10px; text-align:center;">
+<img src="/Users/felixipfling/Documents/GitHub/codex_start/eV-Quote_korAnalyse/screenshot_09.png" style="width:100%;">
+</td>
+<td style="padding:10px; text-align:center;">
+<img src="/Users/felixipfling/Documents/GitHub/codex_start/eV-Quote_korAnalyse/screenshot_10.png" style="width:100%;">
+</td>
+</tr>
+</table>
+<p style="font-size: 0.9em; text-align: center;">
+<p><strong>Abbildung 1.</strong> Choroplethen zur regionalen Verteilung zentraler Struktur-,
+Mobilitäts- und Demografievariablen differnz zum jeweiligen Bundes Mittelwert.
+</p>
+</p>
+<h2 id="deskriptive-analyse">3. Deskriptive Analyse</h2>
+
+<h3 id="verteilung-der-e-auto-quote">3.1 Verteilung der
+E-Auto-Quote</h3>
+<p>Die Verteilung der E-Auto-Quote über alle Kreise und Jahre ist in
+Abbildung 2 als Boxplot dargestellt. Die Grafik dient der Einschätzung
+der Streuung und zeigt, dass die E-Auto-Quote deutlich heterogen über
+den gesamten Beobachtungszeitraum verteilt ist. </p>
+<figure>
+<img src="./meaEvQuote20-23.png"
+alt="Zeitliche Entwicklung der mittleren E-Auto-Quote (2020–2023)." />
+<figcaption aria-hidden="true">Zeitliche Entwicklung der mittleren
+E-Auto-Quote (2020–2023).</figcaption>
+</figure>
+<p><strong>Abbildung 2.</strong> Entwicklung der durchschnittlichen
+E-Auto-Quote im Zeitraum 2020–2023. </p>
+<h3 id="Erste-bivariate-Muster-inder-Deskription">3.2 Erste bivariate Muster in der Deskription</h3>
+
+<p>Zur Illustration des Zusammenhangs zwischen Mobilitätsniveau und
+E-Auto-Quote wird eine Dichtegrafik (Hexbin) genutzt (Abbildung 3). Die
+Grafik reduziert Overplotting und verdeutlicht, in welchen Bereichen der
+Pkw-Dichte die meisten Kreis-Jahr-Beobachtungen liegen. </p>
+<figure>
+<img src="./Mobilitätsniveauvs.E-Auto-Quote.png"
+alt="Mobilitätsniveau vs. E-Auto-Quote (Dichte)." />
+<figcaption aria-hidden="true">Mobilitätsniveau vs. E-Auto-Quote
+(Dichte).</figcaption>
+</figure>
+<p><strong>Abbildung 3.</strong> Zusammenhang zwischen Pkw-Bestand pro
+1.000 Einwohner und E-Auto-Quote (Hexbin-Darstellung).</p>
+<h2 id="bivariate-analyse">4. Bivariate Analyse</h2>
+<p>Die bivariaten Zusammenhänge zwischen E-Auto-Quote und erklärenden
+Variablen sind in Tabelle 2 dokumentiert. Die Korrelationen werden
+dimensionsweise berichtet und ausschließlich als lineare Zusammenhänge
+interpretiert.</p>
+<ul>
+<li><strong>Ökonomische Dynamik:</strong> Lohnwachstum weist den
+stärksten positiven Zusammenhang auf (r = 0.6108, p &lt; 0.001).</li>
+<li><strong>Einkommensniveau:</strong> Lohn pro Arbeitsstunde (r =
+0.5668, p &lt; 0.001) und Entgelt pro Arbeitsstunde (r = 0.5573, p &lt;
+0.001) zeigen starke positive Zusammenhänge.</li>
+<li><strong>Demografie:</strong> Der Anteil 65+ korreliert moderat
+negativ (r = −0.2760, p &lt; 0.001), der Anteil 18–35 moderat positiv (r
+= 0.2371, p &lt; 0.001).</li>
+<li><strong>Mobilitätsniveau:</strong> Pkw pro 1.000 Einwohner zeigt
+einen schwachen, aber signifikanten positiven Zusammenhang (r = 0.1107,
+p &lt; 0.001).</li>
+<li><strong>Wirtschaftsstruktur:</strong> Dienstleistungsanteil ist
+schwach positiv (r = 0.0714), produzierendes Gewerbe schwach negativ (r
+= −0.0515), verarbeitendes Gewerbe nicht signifikant.</li>
+<li><strong>Arbeitsintensität:</strong> Kein signifikanter Zusammenhang
+(r = 0.0443, p &gt; 0.05).</li>
+</ul>
+
+<p>Ergänzend verdeutlicht Abbildung 4 (LOWESS) die positive Beziehung
+zwischen Lohn pro Arbeitsstunde und E-Auto-Quote, während Abbildung 5
+(Hexbin) den Zusammenhang zwischen Lohnwachstum und E-Auto-Quote
+abbildet. Abbildung 6 (gebinnte Mittelwerte) zeigt, wie die E-Auto-Quote
+mit dem Anteil der Bevölkerung 65+ abnimmt. Diese Grafiken dienen der
+visuellen Prüfung linearer und nichtlinearer Muster sowie der Stabilität
+der bivariaten Beziehungen. </p>
+<p>Die vollständigen bivariaten Ergebnisse sind in Tabelle 2
+zusammengefasst.</p>
+<p><strong>Tabelle 1.</strong> Bivariate Korrelationen mit der
+E-Auto-Quote.</p>
+<table>
+<thead>
+<tr>
+<th>Dimension</th>
+<th>Variable</th>
+<th>r</th>
+<th>p</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Einkommensniveau</td>
+<td>Lohn pro Stunde</td>
+<td>0.567</td>
+<td>&lt; .001</td>
+</tr>
+<tr>
+<td>Einkommensniveau</td>
+<td>Entgelt pro Stunde</td>
+<td>0.557</td>
+<td>&lt; .001</td>
+</tr>
+<tr>
+<td>Dynamik</td>
+<td>Lohnwachstum</td>
+<td>0.611</td>
+<td>&lt; .001</td>
+</tr>
+<tr>
+<td>Demografie</td>
+<td>Anteil 65+</td>
+<td>-0.276</td>
+<td>&lt; .001</td>
+</tr>
+<tr>
+<td>Demografie</td>
+<td>Anteil 18–35</td>
+<td>0.237</td>
+<td>&lt; .001</td>
+</tr>
+<tr>
+<td>Mobilitätsniveau</td>
+<td>PKW/1000</td>
+<td>0.111</td>
+<td>&lt; .001</td>
+</tr>
+</tbody>
+</table>
+<figure>
+<img src="./EinkommensniveauundE-Auto-Quote(LOWESS).png"
+alt="Einkommensniveau und E-Auto-Quote (LOWESS)." />
+<figcaption aria-hidden="true">Einkommensniveau und E-Auto-Quote
+(LOWESS).</figcaption>
+</figure>
+<p><strong>Abbildung 4.</strong> Zusammenhang zwischen Lohn pro
+Arbeitsstunde und E-Auto-Quote (LOWESS).</p>
+<figure>
+<img src="./ÖkonomischeDynamikundE-Auto-Quote(Dichte).png"
+alt="Ökonomische Dynamik und E-Auto-Quote (Dichte)." />
+<figcaption aria-hidden="true">Ökonomische Dynamik und E-Auto-Quote
+(Dichte).</figcaption>
+</figure>
+<p><strong>Abbildung 5.</strong> Zusammenhang zwischen Lohnwachstum und
+E-Auto-Quote (Hexbin).</p>
+<figure>
+<img src="./AltersstrukturundE-Auto-Quote(gebinnteMittelwerte).png"
+alt="Altersstruktur und E-Auto-Quote (gebinnte Mittelwerte)." />
+<figcaption aria-hidden="true">Altersstruktur und E-Auto-Quote (gebinnte
+Mittelwerte).</figcaption>
+</figure>
+<p><strong>Abbildung 6.</strong> Zusammenhang zwischen Anteil der
+Bevölkerung 65+ und E-Auto-Quote.</p>
+<h2 id="multivariate-analyse">5. Multivariate Analyse</h2>
+<h3 id="partielle-korrelationen">5.1 Partielle Korrelationen</h3>
+<p>Unter Kontrolle der Altersstruktur (Anteil 65+) bleiben die
+Zusammenhänge zwischen E-Auto-Quote und den zentralen ökonomischen
+Variablen bestehen. Die partiellen Korrelationen betragen r = 0.551 (p
+&lt; 0.001) für <code>lohn_pro_stunde</code> und r = 0.620 (p &lt;
+0.001) für <code>lohn_wachstum</code>. Dies deutet darauf hin, dass
+beide ökonomischen Dimensionen unabhängig von der Altersstruktur mit der
+E-Auto-Quote verbunden sind.</p>
+<h3 id="lineare-regressionen">5.2 Lineare Regressionen</h3>
+<p>Die multivariate Basisregression modelliert die
+E-Auto-Quote als Funktion von Lohn pro Arbeitsstunde, Lohnwachstum und
+Anteil 65+. Das Modell erklärt 53,8 % der Varianz (R² = 0.538). Die
+Koeffizienten sind positiv für Einkommensniveau (β = 0.0008, p &lt;
+0.001) und Dynamik (β = 0.0015, p &lt; 0.001), während der demografische
+Anteil 65+ negativ und nicht signifikant ist (β = −0.0094, p = 0.111).
+</p>
+<p>Zur Einschätzung relativer Effektstärken wurde eine standardisierte
+Regression geschätzt. Die standardisierten Koeffizienten
+zeigen einen stärkeren Effekt für Lohnwachstum (β = 0.4456) als für Lohn
+pro Arbeitsstunde (β = 0.4139), während der Effekt von Anteil 65+ klein
+und nicht signifikant bleibt (β = −0.0384, p = 0.111).</p>
+
+<h3 id="Reduzierte-Variablen-und-Korrelationen">5.3 Reduzierte Variablen und Korrelationen</h3>
+<p>Zur Kontrolle von Multikollinearität und Redundanz wird ein
+reduziertes Variablenset genutzt (E-Auto-Quote, Lohn pro Stunde,
+Lohnwachstum, Anteil 65+, Pkw pro 1.000 Einwohner). Abbildung 7 zeigt
+die Korrelationsmatrix dieser reduzierten Variablen und dient der
+Kontrolle von Zusammenhängen zwischen den Prädiktoren.  <img
+src="./KorrelationsmatrixderreduziertenerklärendenVariablen.png"
+alt="Korrelationsmatrix." />
+<p><strong>Abbildung 7.</strong> Korrelationsmatrix.</p>
+
+<h2 id="Zeitdimension">6.1 Zeitdimension</h3>
+
+<h3 id="zeittrend">6.1 Zeittrend</h3>
+
+<p>Die durchschnittliche E-Auto-Quote steigt kontinuierlich von 0.002688
+(2020) auf 0.019508 (2023), der zugehörige Zeittrend ist in
+Abbildung 8 visualisiert. </p>
+<figure>
+<img src="./meaEvQuote20-23.png" alt="Zeittrend der E-Auto-Quote." />
+<figcaption aria-hidden="true">Zeittrend der E-Auto-Quote.</figcaption>
+</figure>
+<p><strong>Abbildung 8.</strong> Zeitlicher Trend der durchschnittlichen
+E-Auto-Quote.</p>
+<h3 id="regionale-streuung-pro-jahr">6.2 Regionale Streuung pro
+Jahr</h3>
+<p>Abbildung 9 zeigt Boxplots der E-Auto-Quote getrennt nach Jahr. Diese
+Grafik illustriert, dass die regionale Streuung auch innerhalb einzelner
+Jahre hoch bleibt und somit nicht allein durch den allgemeinen Zeittrend
+erklärbar ist. </p>
+<figure>
+<img src="./regiostreuEquoteJahr.png"
+alt="Regionale Streuung der E-Auto-Quote nach Jahr." />
+<figcaption aria-hidden="true">Regionale Streuung der E-Auto-Quote nach
+Jahr.</figcaption>
+</figure>
+<p><strong>Abbildung 9.</strong> Regionale Streuung der E-Auto-Quote
+(Boxplots).
+<h3 id="within-year-korrelationen">6.3 Within-Year-Korrelationen</h3>
+<p>Die Within-Year-Korrelationen zwischen E-Auto-Quote und Lohn pro
+Arbeitsstunde variieren über die Zeit: r = 0.1429 (2020), r = 0.4057
+(2021), r = 0.6288 (2022) und r = 0.5516 (2023). Die Werte sind in Abbildung 11 visualisiert.
+ <img src="./WITHIN-YEAR_KORRELATIONEN.png"
+alt="WITHIN-YEAR_KORRELATIONEN." />
+<p><strong>Abbildung 10.</strong> Within-Year-Korrelationen.</p>
+<h3 id="jahres-dummis-regres">6.4 Regression mit Jahres-Dummies</h3>
+
+<p>Die Regression mit Jahres-Dummies zeigt deutlich positive
+Jahreseffekte gegenüber 2020: 2021 (β = 0.0022), 2022 (β = 0.0075) und
+2023 (β = 0.0140), jeweils hochsignifikant. Der Einkommenseffekt bleibt
+positiv (β = 0.0005, p &lt; 0.001), während Lohnwachstum unter
+Zeitkontrolle nicht signifikant ist (β = 0.000078, p = 0.330). Der
+Anteil 65+ ist signifikant negativ (β = −0.0425, p &lt; 0.001). </p>
+<p>Abbildung 12 visualisiert die geschätzten Jahres-Dummies als relative
+Effekte gegenüber dem Basisjahr 2020 und macht den zeitlichen
+Diffusionstrend sichtbar. </p>
+<figure>
+<img src="./REGRESSIOZeitkontjahr.png"
+alt="Regression mit Zeitkontrolle über Jahres-Dummies." />
+<figcaption aria-hidden="true">Regression mit Zeitkontrolle über
+Jahres-Dummies.</figcaption>
+</figure>
+<p><strong>Abbildung 11.</strong> Regressionsergebnisse mit
+Zeitkontrolle (Basisjahr 2020).</p>
+<h2 id="Limitationen">7. Limitationen</h2>
+<p>Die Analyse ist explorativ angelegt und erlaubt keine kausalen Aussagen. Alle Auswertungen basieren auf vollständigen Beobachtungen mit identischen Kreis-Jahr-Kombinationen; Verzerrungen durch wechselnde Stichproben liegen daher nicht vor. Die zentralen Einschränkungen betreffen die inhaltliche Abdeckung der erklärenden Variablen. Ein Großteil der verwendeten Indikatoren misst unterschiedliche Facetten ökonomischen Wohlstands und ist empirisch eng miteinander verknüpft. Andere potenziell relevante Dimensionen, etwa politische Präferenzen, lokale Förderpolitik, Ladeinfrastruktur oder kulturelle Faktoren, konnten mangels konsistenter Daten nicht berücksichtigt werden.
+    Angebotsseitige Faktoren der Automobilindustrie werden nicht explizit modelliert. Da der deutsche Pkw-Markt weitgehend national integriert ist, dürften diese Faktoren primär zeitlich wirken und regionale Unterschiede nur begrenzt erklären. Die Analyse fokussiert daher bewusst auf regionale Strukturmerkmale der Nachfrageseite.</p>
+<h2 id="Diskussion">8. Diskussion</h2>
+<p>Die Ergebnisse zeigen, dass die E-Auto-Quote stark durch den Zeitverlauf geprägt ist. Gleichzeitig bestehen in allen Jahren deutliche regionale Unterschiede. Das Einkommensniveau weist in sämtlichen Modellen eine stabile positive Korrelation mit der E-Auto-Quote auf. Ökonomische Dynamik ist bivariativ stark, verliert jedoch unter Zeitkontrolle ihre eigenständige Erklärungskraft. Eine ältere Bevölkerungsstruktur wirkt im Zeitmodell signifikant negativ.
+    Die Befunde sprechen für ein Zusammenspiel aus zeitlicher Diffusion und regionaler Differenzierung. Während die Elektromobilität insgesamt zunimmt, bleibt die Streuung zwischen Regionen hoch. Innerhalb einzelner Jahre nimmt die Stärke des Einkommenszusammenhangs zu, was auf eine zunehmende soziale Selektivität der Elektromobilität im Zeitverlauf hinweist.</p>
+<h2 id="Fazit">9. Fazit</h2>
+<p>Die regionale Verbreitung von Elektromobilität in Deutschland ist stark zeitlich getrieben, aber dauerhaft mit sozioökonomischen Strukturen verknüpft. Das Einkommensniveau ist der robusteste Prädiktor der E-Auto-Quote. Ökonomische Dynamik spielt vor allem im bivariaten Kontext eine Rolle. Eine ältere Bevölkerungsstruktur wirkt hemmend und bleibt auch unter Zeitkontrolle relevant.
+    Die Ergebnisse zeigen, dass sich Elektromobilität zwar ausbreitet, regionale und soziale Unterschiede jedoch nicht auflöst. Weiterführende Forschung sollte zusätzliche Dimensionen wie Infrastruktur, politische Rahmenbedingungen und institutionelle Faktoren einbeziehen, um Diffusionsprozesse und soziale Ungleichheiten differenzierter zu analysieren.</p>
+
+</body>
+</html>
