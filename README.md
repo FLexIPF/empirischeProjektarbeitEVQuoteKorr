@@ -84,7 +84,7 @@ Verwendet wurden unter anderem:
 - OpenAI-Modelle (ChatGPT, Codex-basierte Agenten)
 - GitHub Copilot
 - Google Gemini
-- Perplexity
+- "Perplexity"
 
 Ein wesentlicher Teil der Arbeit erfolgte über die Diktierfunktion von ChatGPT. Statt klassischem Prompting wurde überwiegend mit natürlicher Sprache, Kontextaufbau (Context Engineering) und frei formulierten Sprachnotizen gearbeitet, um Arbeitsziele, Analyseideen und gewünschte Verarbeitungsschritte zu erläutern. Dieser Ansatz ermöglichte eine sehr direkte und iterative Arbeitsweise.
 
