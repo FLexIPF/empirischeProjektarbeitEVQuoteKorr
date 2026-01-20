@@ -68,7 +68,9 @@ Im Repository enthalten sind außerdem:
 - das vollständige Paper als PDF,
 - alle finalen Visualisierungen zusätzlich als Bilddateien.
 
----
+--- unter deisem link:https://ws2526unirregesnburgvwlempirischeprojektarbeitsdashboardinter.streamlit.app/fazit 
+
+einen presentations Anwendung als inter aktiver report der Code dafür ist in dem presentation_app Ordner
 
 ## Einsatz von KI-Werkzeugen
 
