@@ -12,13 +12,14 @@ apply_base_styles()
 start_slide(
     title="Diskussion & Fazit",
     lead=(
-        "Die E-Auto-Quote ist stark zeitgetrieben, bleibt aber regional durch "
-        "Einkommens- und Altersstrukturen differenziert."
+        "Die E-Auto-Quote wird maßgeblich durch den Zeittrend bestimmt, "
+        "bleibt jedoch regional sozial und ökonomisch differenziert."
     ),
     bullets=[
-        "Zeittrend + soziale Differenzierung prägen die Diffusion.",
-        "Ältere Bevölkerungsstruktur wirkt hemmend, auch unter Zeitkontrolle.",
-        "Ausblick: Infrastruktur- und kausale Designs ergänzen die Analyse.",
+        "Der Zeittrend treibt die Diffusion, regionale Unterschiede bleiben jedoch bestehen.",
+        "Einkommensniveau und insbesondere ökonomische Dynamik erklären einen Großteil dieser Differenzen.",
+        "Demografische Strukturen wirken vor allem indirekt und verlieren im gemeinsamen Modell an Eigenständigkeit.",
+        "Ausblick: Infrastrukturvariablen und kausale Designs zur Mechanismenklärung.",
     ],
 )
 end_slide()
